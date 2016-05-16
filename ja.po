@@ -1,0 +1,3497 @@
+# Translation of Development (trunk) in Japanese
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Development (trunk)\n"
+"POT-Creation-Date: 2016-05-16 16:32+0900\n"
+"PO-Revision-Date: 2016-05-16 21:44+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.5\n"
+
+#: classes/class-fl-builder-admin-settings.php:116
+#, php-format
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "%s Settings"
+msgstr "%s設定"
+
+#: classes/class-fl-builder-admin-settings.php:133
+msgid "Settings updated!"
+msgstr "設定を保存しました。"
+
+#: classes/class-fl-builder-admin-settings.php:147
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: classes/class-fl-builder-admin-settings.php:148
+#: classes/class-fl-builder-admin-settings.php:212
+#: classes/class-fl-builder-admin.php:260 classes/class-fl-builder-model.php:4445
+msgid "Page Builder"
+msgstr "ページビルダー"
+
+#: classes/class-fl-builder-admin-settings.php:151
+msgid "License"
+msgstr "ライセンス"
+
+#: classes/class-fl-builder-admin-settings.php:155
+#: includes/admin-settings-upgrade.php:3
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: classes/class-fl-builder-admin-settings.php:159 includes/global-settings.php:90
+msgid "Modules"
+msgstr "モジュール"
+
+#: classes/class-fl-builder-admin-settings.php:163 classes/class-fl-builder.php:710
+msgid "Templates"
+msgstr "テンプレート"
+
+#: classes/class-fl-builder-admin-settings.php:167
+#: includes/admin-settings-post-types.php:3
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: classes/class-fl-builder-admin-settings.php:171
+msgid "Icons"
+msgstr "アイコン"
+
+#: classes/class-fl-builder-admin-settings.php:175
+msgid "Editing"
+msgstr "編集"
+
+#: classes/class-fl-builder-admin-settings.php:179
+msgid "Branding"
+msgstr "ブランディング"
+
+#: classes/class-fl-builder-admin-settings.php:183
+msgid "Help Button"
+msgstr "ヘルプボタン"
+
+#: classes/class-fl-builder-admin-settings.php:187
+#: includes/admin-settings-cache.php:3
+msgid "Cache"
+msgstr "キャッシュ"
+
+#: classes/class-fl-builder-admin-settings.php:191
+#: includes/admin-settings-uninstall.php:3 includes/admin-settings-uninstall.php:15
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#: classes/class-fl-builder-admin-settings.php:448
+msgid "Error! You must have at least one icon set enabled."
+msgstr "エラー。少なくとも１つのアイコンセットを有効にしてください。"
+
+#: classes/class-fl-builder-admin-settings.php:490
+msgid "Error! Could not unzip file."
+msgstr "エラー。ファイルを解凍できませんでした。"
+
+#: classes/class-fl-builder-admin-settings.php:524
+msgid "Error! Please upload an icon set from either Icomoon or Fontello."
+msgstr ""
+"エラー。Icomoon または Fontello からアイコンセットをアップロードしてください。"
+
+#: classes/class-fl-builder-admin-settings.php:641
+msgid "Error! Please enter an iframe for the video embed code."
+msgstr "エラー。ビデオ埋め込みコードのための iframe を入力してください。"
+
+#: classes/class-fl-builder-admin-settings.php:659
+msgid "Error! You must have at least one feature of the help button enabled."
+msgstr "エラー。ヘルプボタン機能を少なくとも1つ有効にしてください。"
+
+#: classes/class-fl-builder-admin.php:45
+#, php-format
+msgid ""
+"This version of the <strong>Page Builder</strong> plugin is not compatible with "
+"WordPress Multisite. <a%s>Please upgrade</a> to the Multisite version of this "
+"plugin."
+msgstr ""
+"このバージョンの<strong>ページビルダー</strong>プラグインは WordPress のマルチサイ"
+"トに対応していません。このプラグインのマルチサイトバージョンに<a%s>アップグレードし"
+"てください</a>。"
+
+#: classes/class-fl-builder-admin.php:55
+msgid ""
+"The <strong>Page Builder</strong> plugin requires WordPress version 3.5 or "
+"greater. Please update WordPress before activating the plugin."
+msgstr ""
+"<strong>ページビルダー</strong>プラグインは WordPress バージョン3.5以上が必要です。"
+"プラグインを有効化する前に WordPress を更新してください。"
+
+#: classes/class-fl-builder-admin.php:111
+#, php-format
+msgid "Page Builder activated! <a%s>Click here</a> to enable remote updates."
+msgstr ""
+"ページビルダーを有効化しました。リモート更新を有効にするには<a%s>ここをクリックしま"
+"す</a>。"
+
+#: classes/class-fl-builder-admin.php:115
+#, php-format
+msgid "Page Builder activated! <a%s>Click here</a> to get started."
+msgstr ""
+"ページビルダーを有効化しました。<a%s>ここをクリック</a>して開始してください。"
+
+#: classes/class-fl-builder-admin.php:245
+msgctxt "Plugin action link label."
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: classes/class-fl-builder-fonts.php:41 classes/class-fl-builder-fonts.php:66
+#: classes/class-fl-builder-fonts.php:97 includes/column-settings.php:463
+#: includes/column-settings.php:491 includes/row-settings.php:50
+msgid "Default"
+msgstr "デフォルト"
+
+#: classes/class-fl-builder-fonts.php:98
+msgid "Regular"
+msgstr "レギュラー"
+
+#: classes/class-fl-builder-model.php:1848
+#, php-format
+msgctxt "%s stands for the module filename"
+msgid ""
+"A module with the filename %s.php already exists! Please namespace your module "
+"filenames to ensure compatibility with Beaver Builder."
+msgstr ""
+"ファイル名 %s.php のモジュールは既に存在します。Beaver Builder との互換性を保つため"
+"に、モジュールのファイル名を名前空間を利用してください。"
+
+#: classes/class-fl-builder-model.php:1906 classes/class-fl-builder-model.php:1970
+#: modules/audio/audio.php:21 modules/html/html.php:16 modules/photo/photo.php:27
+#: modules/rich-text/rich-text.php:16 modules/video/video.php:21
+msgid "Basic Modules"
+msgstr "基本モジュール"
+
+#: classes/class-fl-builder-model.php:1907 classes/class-fl-builder-model.php:1971
+#: modules/sidebar/sidebar.php:16
+msgid "Advanced Modules"
+msgstr "上級モジュール"
+
+#: classes/class-fl-builder-model.php:1908 classes/class-fl-builder-model.php:1972
+msgid "Other Modules"
+msgstr "その他のモジュール"
+
+#: classes/class-fl-builder-model.php:1909 classes/class-fl-builder-model.php:1973
+#: includes/admin-settings-modules.php:32 includes/ui-panel.php:56
+#: modules/widget/widget.php:16
+msgid "WordPress Widgets"
+msgstr "WordPress ウィジェット"
+
+#: classes/class-fl-builder-model.php:2689
+#, php-format
+msgctxt "%s stands for post/page title."
+msgid "Copy of %s"
+msgstr "%s のコピー"
+
+#: classes/class-fl-builder-model.php:3323
+msgctxt "Default user template category."
+msgid "Uncategorized"
+msgstr "未分類"
+
+#: classes/class-fl-builder-model.php:4377
+msgid "Home Pages"
+msgstr "ホームページ"
+
+#: classes/class-fl-builder-model.php:4378
+msgid "Content Pages"
+msgstr "コンテンツページ"
+
+#: classes/class-fl-builder-photo.php:100 classes/class-fl-builder-photo.php:105
+msgctxt "Image size."
+msgid "Full Size"
+msgstr "フルサイズ"
+
+#: classes/class-fl-builder-photo.php:106
+msgctxt "Image size."
+msgid "Large"
+msgstr "大"
+
+#: classes/class-fl-builder-photo.php:107
+msgctxt "Image size."
+msgid "Medium"
+msgstr "中"
+
+#: classes/class-fl-builder-photo.php:108
+msgctxt "Image size."
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: classes/class-fl-builder-service-activecampaign.php:69
+msgid "Error: You must provide an API URL."
+msgstr "エラー: API の URL を設定してください。"
+
+#: classes/class-fl-builder-service-activecampaign.php:73
+#: classes/class-fl-builder-service-campaign-monitor.php:55
+#: classes/class-fl-builder-service-campayn.php:106
+#: classes/class-fl-builder-service-constant-contact.php:48
+#: classes/class-fl-builder-service-convertkit.php:67
+#: classes/class-fl-builder-service-getresponse.php:67
+#: classes/class-fl-builder-service-hatchbuck.php:48
+#: classes/class-fl-builder-service-infusionsoft.php:79
+#: classes/class-fl-builder-service-madmimi.php:73
+#: classes/class-fl-builder-service-mailchimp.php:67
+#: classes/class-fl-builder-service-mailrelay.php:82
+#: classes/class-fl-builder-service-sendy.php:72
+msgid "Error: You must provide an API key."
+msgstr "エラー: API キーを設定してください。"
+
+#: classes/class-fl-builder-service-activecampaign.php:81
+msgid "Error: Please check your API URL and API key."
+msgstr "エラー: API URL と API キーを確認してください。"
+
+#: classes/class-fl-builder-service-activecampaign.php:108
+msgid "API URL"
+msgstr "API URL"
+
+#: classes/class-fl-builder-service-activecampaign.php:109
+msgid ""
+"Your API url can be found in your ActiveCampaign account under My Settings > API."
+msgstr ""
+"API キーは ActiveCampaign アカウントの「My Settings」>「API」以下で確認します。"
+
+#: classes/class-fl-builder-service-activecampaign.php:119
+#: classes/class-fl-builder-service-campaign-monitor.php:88
+#: classes/class-fl-builder-service-campayn.php:149
+#: classes/class-fl-builder-service-constant-contact.php:88
+#: classes/class-fl-builder-service-convertkit.php:99
+#: classes/class-fl-builder-service-getresponse.php:100
+#: classes/class-fl-builder-service-hatchbuck.php:87
+#: classes/class-fl-builder-service-infusionsoft.php:129
+#: classes/class-fl-builder-service-madmimi.php:121
+#: classes/class-fl-builder-service-mailchimp.php:100
+#: classes/class-fl-builder-service-mailrelay.php:130
+#: classes/class-fl-builder-service-sendy.php:126
+msgid "API Key"
+msgstr "API キー"
+
+#: classes/class-fl-builder-service-activecampaign.php:120
+msgid ""
+"Your API key can be found in your ActiveCampaign account under My Settings > API."
+msgstr ""
+"API キーは ActiveCampaign アカウントの「My Settings」>「API」以下で確認します。"
+
+#: classes/class-fl-builder-service-activecampaign.php:169
+#: classes/class-fl-builder-service-aweber.php:182
+#: classes/class-fl-builder-service-campaign-monitor.php:148
+#: classes/class-fl-builder-service-campaign-monitor.php:199
+#: classes/class-fl-builder-service-campayn.php:203
+#: classes/class-fl-builder-service-constant-contact.php:156
+#: classes/class-fl-builder-service-convertkit.php:153
+#: classes/class-fl-builder-service-getresponse.php:154
+#: classes/class-fl-builder-service-icontact.php:207
+#: classes/class-fl-builder-service-infusionsoft.php:204
+#: classes/class-fl-builder-service-madmimi.php:178
+#: classes/class-fl-builder-service-mailchimp.php:177
+#: classes/class-fl-builder-service-mailpoet.php:92
+#: classes/class-fl-builder-service-mailrelay.php:187
+#: classes/class-fl-builder-service-sendinblue.php:161
+#: classes/class-fl-builder-services.php:309 includes/service-settings.php:21
+msgid "Choose..."
+msgstr "選択"
+
+#: classes/class-fl-builder-service-activecampaign.php:181
+#: classes/class-fl-builder-service-aweber.php:192
+#: classes/class-fl-builder-service-campaign-monitor.php:209
+#: classes/class-fl-builder-service-constant-contact.php:166
+#: classes/class-fl-builder-service-convertkit.php:163
+#: classes/class-fl-builder-service-getresponse.php:164
+#: classes/class-fl-builder-service-icontact.php:217
+#: classes/class-fl-builder-service-infusionsoft.php:214
+#: classes/class-fl-builder-service-madmimi.php:188
+#: classes/class-fl-builder-service-mailchimp.php:187
+#: classes/class-fl-builder-service-mailpoet.php:102
+#: classes/class-fl-builder-service-sendinblue.php:171
+msgctxt "An email list from a third party provider."
+msgid "List"
+msgstr "リスト"
+
+#: classes/class-fl-builder-service-activecampaign.php:208
+msgid ""
+"There was an error subscribing to ActiveCampaign. The account is no longer "
+"connected."
+msgstr ""
+"ActiveCampaign の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-activecampaign.php:239
+msgid "Error: Invalid API data."
+msgstr "エラー: APIデータが無効です。"
+
+#: classes/class-fl-builder-service-aweber.php:72
+msgid "Error: You must provide an Authorization Code."
+msgstr "エラー: 認証コードを設定してください。"
+
+#: classes/class-fl-builder-service-aweber.php:76
+msgid "Error: Please enter a valid Authorization Code."
+msgstr "エラー: 有効な認証コードを入力してください。"
+
+#: classes/class-fl-builder-service-aweber.php:127
+msgid "Authorization Code"
+msgstr "認証コード"
+
+#: classes/class-fl-builder-service-aweber.php:128
+#, php-format
+msgid ""
+"Please register this website with AWeber to get your Authorization Code. <a"
+"%s>Register Now</a>"
+msgstr ""
+"オートレスポンダーあなたの認証コードを取得すると、このウェブサイトを登録してくださ"
+"い。<a%s>今すぐ登録</a>"
+
+#: classes/class-fl-builder-service-aweber.php:219
+msgid "There was an error subscribing to AWeber. The account is no longer connected."
+msgstr "AWeber の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-aweber.php:242
+msgid "There was an error connecting to AWeber. Please try again."
+msgstr "AWeber への接続にエラーが発生しました。再度お試しください。"
+
+#: classes/class-fl-builder-service-aweber.php:247
+#, php-format
+msgid "There was an error subscribing to AWeber. %s"
+msgstr "AWeber の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:67
+#: classes/class-fl-builder-service-campaign-monitor.php:129
+#: classes/class-fl-builder-service-convertkit.php:131
+#: classes/class-fl-builder-service-getresponse.php:76
+#: classes/class-fl-builder-service-getresponse.php:132
+#: classes/class-fl-builder-service-hatchbuck.php:63
+msgid "Error: Please check your API key."
+msgstr "エラー: API キーを確認してください。"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:89
+msgid ""
+"Your API key can be found in your Campaign Monitor account under Account Settings "
+"> API Key."
+msgstr ""
+"API キーは Campaign Monitor アカウントの「Account Settings」>「API Key」以下で確認"
+"します。"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:158
+msgctxt "A client account in Campaign Monitor."
+msgid "Client"
+msgstr "クライアント"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:236
+msgid ""
+"There was an error subscribing to Campaign Monitor. The account is no longer "
+"connected."
+msgstr ""
+"Campaign Monitor の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:253
+msgid "There was an error subscribing to Campaign Monitor."
+msgstr "Campaign Monitor の購読にエラーが発生しました。"
+
+#: classes/class-fl-builder-service-campayn.php:102
+#: classes/class-fl-builder-service-mailrelay.php:78
+msgid "Error: You must provide a Host."
+msgstr "エラー: ホストを設定してください。"
+
+#: classes/class-fl-builder-service-campayn.php:117
+#, php-format
+msgid "Error: Could not connect to Campayn. %s"
+msgstr "エラー: Campayn に接続できませんでした。%s"
+
+#: classes/class-fl-builder-service-campayn.php:138
+#: classes/class-fl-builder-service-mailrelay.php:119
+msgid "Host"
+msgstr "ホスト"
+
+#: classes/class-fl-builder-service-campayn.php:139
+msgid ""
+"The host you chose when you signed up for your account. Check your welcome email "
+"if you forgot it. Please enter it without the initial http:// (for example: demo."
+"campayn.com)."
+msgstr ""
+"アカウント登録時に選択したホスト。忘れてしまった場合は、ようこそメールを確認しま"
+"す。先頭の http:// を除いて入力してください (例: demo.campayn.com)。"
+
+#: classes/class-fl-builder-service-campayn.php:150
+msgid "Your API key can be found in your Campayn account under Settings > API Key."
+msgstr "API キーは Campayn アカウントの「Settings」>「API Key」以下で確認します。"
+
+#: classes/class-fl-builder-service-campayn.php:181
+#: classes/class-fl-builder-service-convertkit.php:78
+#: classes/class-fl-builder-service-mailrelay.php:165
+#, php-format
+msgid "Error: Please check your API key. %s"
+msgstr "エラー: API キーを確認してください。%s"
+
+#: classes/class-fl-builder-service-campayn.php:213
+msgctxt "An email list from third party provider."
+msgid "List"
+msgstr "リスト"
+
+#: classes/class-fl-builder-service-campayn.php:241
+msgid ""
+"There was an error subscribing to Campayn. The account is no longer connected."
+msgstr "Campayn の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-campayn.php:288
+#, php-format
+msgid "There was an error subscribing to Campayn. %s"
+msgstr "エラー: Campayn の購読にエラーが発生しました。%s"
+
+#: classes/class-fl-builder-service-constant-contact.php:52
+msgid "Error: You must provide an access token."
+msgstr "エラー: アクセストークンを設定してください。"
+
+#: classes/class-fl-builder-service-constant-contact.php:61
+#: classes/class-fl-builder-service-constant-contact.php:134
+#, php-format
+msgid "Error: Could not connect to Constant Contact. %s"
+msgstr "エラー: Constant Contact に接続できませんでした。%s"
+
+#: classes/class-fl-builder-service-constant-contact.php:89
+msgid "Your Constant Contact API key."
+msgstr "Constant Contact API キー。"
+
+#: classes/class-fl-builder-service-constant-contact.php:99
+msgid "Access Token"
+msgstr "アクセストークン"
+
+#: classes/class-fl-builder-service-constant-contact.php:100
+msgid "Your Constant Contact access token."
+msgstr "Constant Contact アクセストークン。"
+
+#: classes/class-fl-builder-service-constant-contact.php:101
+#, php-format
+msgid ""
+"You must register a <a%s>Developer Account</a> with Constant Contact to obtain an "
+"API key and access token. Please see <a%s>Getting an API key</a> for complete "
+"instructions."
+msgstr ""
+"API キーとアクセストークンを取得するには、Constant Contact の<a%s>開発者アカウント"
+"</a>の登録が必要です。<a%s>API キーの取得</a>にて、取得方法を参照してください。"
+
+#: classes/class-fl-builder-service-constant-contact.php:193
+msgid ""
+"There was an error subscribing to Constant Contact. The account is no longer "
+"connected."
+msgstr ""
+"Constant Contact の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-constant-contact.php:245
+#: classes/class-fl-builder-service-constant-contact.php:279
+#, php-format
+msgid "There was an error subscribing to Constant Contact. %s"
+msgstr "Constant Contact の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-convertkit.php:100
+msgid ""
+"Your API key can be found in your ConvertKit account under Account > Account "
+"Settings > API Key."
+msgstr ""
+"API キーは ConvertKit アカウントの「Account」>「Account Settings」>「API Key」で確"
+"認します。"
+
+#: classes/class-fl-builder-service-convertkit.php:190
+msgid ""
+"There was an error subscribing to ConvertKit. The account is no longer connected."
+msgstr ""
+"ConvertKit の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-convertkit.php:198
+msgid "There was an error subscribing to ConvertKit."
+msgstr "ConvertKit の購読にエラーが発生しました。"
+
+#: classes/class-fl-builder-service-drip.php:67
+msgid "Error: You must provide an API token."
+msgstr "エラー: API トークンを設定してください。"
+
+#: classes/class-fl-builder-service-drip.php:71
+msgid "Error: You must provide an Account ID."
+msgstr "エラー: アカウント ID を設定してください。"
+
+#: classes/class-fl-builder-service-drip.php:92
+#, php-format
+msgid "Error: Please check your Account ID. %s"
+msgstr "エラー: アカウントIDを確認してください。%s"
+
+#: classes/class-fl-builder-service-drip.php:99
+#, php-format
+msgid "Error: Please check your API token. %s"
+msgstr "エラー: API トークンを確認してください。%s"
+
+#: classes/class-fl-builder-service-drip.php:122
+msgid "API Token"
+msgstr "APIトークン"
+
+#: classes/class-fl-builder-service-drip.php:123
+#, php-format
+msgid ""
+"Your API Token can be found in your Drip account under Settings > My User "
+"Settings. Or, you can click this <a%s>direct link</a>."
+msgstr ""
+"API トークンは Drip アカウントの「Settings」>「My User Settings」で確認します。また"
+"は、<a%s>直接リンク</a>をクリックします。"
+
+#: classes/class-fl-builder-service-drip.php:133
+msgid "Account ID"
+msgstr "アカウント ID"
+
+#: classes/class-fl-builder-service-drip.php:134
+msgid ""
+"Your Account ID can be found in your Drip account under Settings > Site Setup."
+msgstr "アカウント ID は Drip アカウントの「Settings」>「Site Setup」で確認します。"
+
+#: classes/class-fl-builder-service-drip.php:180
+msgctxt "A tag to add to contacts in Drip when they subscribe."
+msgid "Tags"
+msgstr "タグ"
+
+#: classes/class-fl-builder-service-drip.php:181
+msgid "For multiple tags, separate with comma."
+msgstr "複数のタグをコンマで区切ります。"
+
+#: classes/class-fl-builder-service-drip.php:208
+msgid "There was an error subscribing to Drip. The account is no longer connected."
+msgstr "Drip の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-drip.php:229
+#, php-format
+msgid "There was an error searching contact from Drip. %s"
+msgstr "Drip の連絡先検索でエラーが発生しました。%s"
+
+#: classes/class-fl-builder-service-drip.php:254
+#, php-format
+msgid "There was an error subscribing to Drip. %s"
+msgstr "Drip の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-email-address.php:39
+#: classes/class-fl-builder-service-madmimi.php:69
+msgid "Error: You must provide an email address."
+msgstr "エラー: メールアドレスを入力する必要があります。"
+
+#: classes/class-fl-builder-service-email-address.php:63
+#: classes/class-fl-builder-service-madmimi.php:110
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: classes/class-fl-builder-service-email-address.php:110
+msgid "There was an error subscribing. The account is no longer connected."
+msgstr "購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-email-address.php:114
+msgid "Subscribe Form Signup"
+msgstr "サインアップして購読"
+
+#: classes/class-fl-builder-service-email-address.php:115
+msgid "Email"
+msgstr "メール"
+
+#: classes/class-fl-builder-service-email-address.php:118
+msgid "Name"
+msgstr "名称"
+
+#: classes/class-fl-builder-service-email-address.php:124
+msgid "There was an error subscribing. Please try again."
+msgstr "購読にエラーが発生しました。再度お試しください。"
+
+#: classes/class-fl-builder-service-getresponse.php:101
+msgid ""
+"Your API key can be found in your GetResponse account under My Account > "
+"GetResponse API."
+msgstr ""
+"API キーは ActiveCampaign アカウントの「My Settings」>「API」以下で確認します。"
+
+#: classes/class-fl-builder-service-getresponse.php:191
+msgid ""
+"There was an error subscribing to GetResponse. The account is no longer connected."
+msgstr ""
+"GetResponse の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-getresponse.php:202
+#, php-format
+msgid "There was an error subscribing to GetResponse. %s"
+msgstr "GetResponse の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-hatchbuck.php:88
+msgid ""
+"Your API key can be found in your Hatchbuck account under Account Settings > Web "
+"API."
+msgstr ""
+"API キーは Hatchbuck アカウントの「Account Settings」>「Web API」以下で確認します。"
+
+#: classes/class-fl-builder-service-hatchbuck.php:134
+msgctxt "A tag to add to contacts in Hatchbuck when they subscribe."
+msgid "Tag"
+msgstr "タグ"
+
+#: classes/class-fl-builder-service-hatchbuck.php:161
+msgid ""
+"There was an error subscribing to Hatchbuck. The account is no longer connected."
+msgstr "Hatchbuck の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-hatchbuck.php:190
+msgid "There was an error subscribing to Hatchbuck. The API key is invalid."
+msgstr "Hatchbuck の購読にエラーが発生しました。API キーは無効です。"
+
+#: classes/class-fl-builder-service-hatchbuck.php:200
+#: classes/class-fl-builder-service-hatchbuck.php:232
+msgid "There was an error subscribing to Hatchbuck."
+msgstr "Hatchbuck の購読にエラーが発生しました。"
+
+#: classes/class-fl-builder-service-icontact.php:75
+msgid "Error: You must provide a username."
+msgstr "エラー: ユーザー名を設定してください。"
+
+#: classes/class-fl-builder-service-icontact.php:79
+msgid "Error: You must provide a app ID."
+msgstr "エラー: アプリケーション ID を設定してください。"
+
+#: classes/class-fl-builder-service-icontact.php:83
+msgid "Error: You must provide a app password."
+msgstr "エラー: アプリケーションパスワードを設定してください。"
+
+#: classes/class-fl-builder-service-icontact.php:104
+#: classes/class-fl-builder-service-icontact.php:188
+#, php-format
+msgid "Error: Could not connect to iContact. %s"
+msgstr "エラー: iContact に接続できませんでした。%s"
+
+#: classes/class-fl-builder-service-icontact.php:125
+msgid "Username"
+msgstr "ユーザー名"
+
+#: classes/class-fl-builder-service-icontact.php:126
+msgid "Your iContact username."
+msgstr "iContact ユーザー名。"
+
+#: classes/class-fl-builder-service-icontact.php:136
+#: classes/class-fl-builder-service-infusionsoft.php:118
+msgid "App ID"
+msgstr "アプリケーション ID"
+
+#: classes/class-fl-builder-service-icontact.php:137
+msgid "Your iContact app ID."
+msgstr "iContact アプリケーション ID。"
+
+#: classes/class-fl-builder-service-icontact.php:147
+msgid "App Password"
+msgstr "アプリケーションパスワード"
+
+#: classes/class-fl-builder-service-icontact.php:148
+msgid "Your iContact app password."
+msgstr "iContact のアプリケーションパスワード。"
+
+#: classes/class-fl-builder-service-icontact.php:149
+#, php-format
+msgid ""
+"You must <a%s>create an app</a> in iContact to obtain an app ID and password. "
+"Please see <a%s>the iContact docs</a> for complete instructions."
+msgstr ""
+"アプリケーション ID とパスワードを取得するには、iContact にて<a%s>アプリケーション"
+"の作成</a>を行う必要があります。<a%s>iContact ドキュメント</a>で取得方法を参照して"
+"ください。"
+
+#: classes/class-fl-builder-service-icontact.php:244
+msgid ""
+"There was an error subscribing to iContact. The account is no longer connected."
+msgstr "iContact の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-icontact.php:280
+#, php-format
+msgid "There was an error subscribing to iContact. %s"
+msgstr "iContact の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-infusionsoft.php:49
+#, php-format
+msgid "There was an error connecting to Infusionsoft. %s"
+msgstr "Infusionsoft への接続にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-infusionsoft.php:83
+msgid "Error: You must provide an app ID."
+msgstr "エラー: アプリケーション ID を設定してください。"
+
+#: classes/class-fl-builder-service-infusionsoft.php:119
+msgid ""
+"Your App ID can be found in the URL for your account. For example, if the URL for "
+"your account is myaccount.infusionsoft.com, your App ID would be "
+"<strong>myaccount</strong>."
+msgstr ""
+"アプリケーション ID はアカウントの URL 内を確認します。例えば、アカウントの URL が "
+"myaccount.infusionsoft.com であれば、あなたのアプリケーション ID は "
+"<strong>myaccount</strong> です。"
+
+#: classes/class-fl-builder-service-infusionsoft.php:130
+msgid ""
+"Your API key can be found in your Infusionsoft account under Admin > Settings > "
+"Application > API > Encrypted Key."
+msgstr ""
+"API キーは Infusionsoft アカウントの「Admin」>「Settings」>「Application」>「API」"
+">「Encrypted Key」以下で確認します。"
+
+#: classes/class-fl-builder-service-infusionsoft.php:242
+msgid ""
+"There was an error subscribing to Infusionsoft. The account is no longer connected."
+msgstr ""
+"Infusionsoft の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-infusionsoft.php:291
+#, php-format
+msgid "There was an error subscribing to Infusionsoft. %s"
+msgstr "Infusionsoft の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-madmimi.php:83
+msgid "Unable to connect to Mad Mimi. Please check your credentials."
+msgstr "Mad Mimi に接続できません。あなたの権限 (credentials) を確認してください。"
+
+#: classes/class-fl-builder-service-madmimi.php:111
+msgid "The email address associated with your Mad Mimi account."
+msgstr "Mad Mimi アカウントに関連付けられたメールアドレス。"
+
+#: classes/class-fl-builder-service-madmimi.php:122
+msgid ""
+"Your API key can be found in your Mad Mimi account under Account > Settings &amp; "
+"Billing > API."
+msgstr ""
+"API キーは Mad Mimi アカウントの「Account」>「Settings &amp; Billing」>「API」以下"
+"で確認します。"
+
+#: classes/class-fl-builder-service-madmimi.php:156
+msgid "There was a problem retrieving your lists. Please check your API credentials."
+msgstr ""
+"リスト取得中に問題が発生しました。API の権限 (credentials) を確認してください。"
+
+#: classes/class-fl-builder-service-madmimi.php:215
+#: classes/class-fl-builder-service-madmimi.php:242
+msgid ""
+"There was an error subscribing to Mad Mimi. The account is no longer connected."
+msgstr "Mad Mimi の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-mailchimp.php:101
+msgid ""
+"Your API key can be found in your MailChimp account under Account > Extras > API "
+"Keys."
+msgstr ""
+"API キーは MailChimp アカウントの「Account」>「Extras」>「API Keys」以下で確認しま"
+"す。"
+
+#: classes/class-fl-builder-service-mailchimp.php:215
+msgid "No Group"
+msgstr "グループなし"
+
+#: classes/class-fl-builder-service-mailchimp.php:227
+msgctxt "MailChimp list group."
+msgid "Groups"
+msgstr "グループ"
+
+#: classes/class-fl-builder-service-mailchimp.php:255
+msgid ""
+"There was an error subscribing to MailChimp. The account is no longer connected."
+msgstr "MailChimp の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-mailchimp.php:352
+#, php-format
+msgid "There was an error subscribing to MailChimp. %s"
+msgstr "MailChimp の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-mailpoet.php:73
+msgid "There was an error retrieveing your lists."
+msgstr "リスト取得中にエラーが発生しました。"
+
+#: classes/class-fl-builder-service-mailpoet.php:129
+msgid "There was an error subscribing. MailPoet is not installed."
+msgstr "購読にエラーが発生しました。 MailPoetがインストールされていません。"
+
+#: classes/class-fl-builder-service-mailrelay.php:98
+#, php-format
+msgid "Error: Could not connect to Mailrelay. %s"
+msgstr "エラー: Mailrelay に接続できませんでした。%s"
+
+#: classes/class-fl-builder-service-mailrelay.php:120
+msgid ""
+"The host you chose when you signed up for your account. Check your welcome email "
+"if you forgot it. Please enter it without the initial http:// (e.g. demo.ip-zone."
+"com)."
+msgstr ""
+"アカウント登録時に選択したホスト。忘れてしまった場合は、ようこそメールを確認しま"
+"す。先頭の http:// を除いて入力してください (例: demo.ip-zone.com)。"
+
+#: classes/class-fl-builder-service-mailrelay.php:131
+msgid ""
+"Your API key can be found in your Mailrelay account under Menu > Settings > API "
+"access."
+msgstr ""
+"API キーは Mailrelay アカウントの「Menu」>「Settings」>「API access」以下で確認しま"
+"す。"
+
+#: classes/class-fl-builder-service-mailrelay.php:198
+msgctxt "A list of subscribers group from a Mailrelay account."
+msgid "Group"
+msgstr "グループ"
+
+#: classes/class-fl-builder-service-mailrelay.php:225
+msgid ""
+"There was an error subscribing to Mailrelay. The account is no longer connected."
+msgstr "Mailrelay の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-mailrelay.php:238
+#, php-format
+msgid "There was an error subscribing to Mailrelay. %s"
+msgstr "Mailrelay の購読にエラーが発生しました。 %s"
+
+#: classes/class-fl-builder-service-sendinblue.php:67
+msgid "Error: You must provide an Access Key."
+msgstr "エラー: アクセスキーを設定してください。"
+
+#: classes/class-fl-builder-service-sendinblue.php:76
+#: classes/class-fl-builder-service-sendinblue.php:136
+msgid "There was an error connecting to SendinBlue. Please try again."
+msgstr "SendinBlue への接続にエラーが発生しました。再度お試しください。"
+
+#: classes/class-fl-builder-service-sendinblue.php:79
+#: classes/class-fl-builder-service-sendinblue.php:139
+#, php-format
+msgid "Error: Could not connect to SendinBlue. %s"
+msgstr "エラー: SendinBlue に接続できませんでした。%s"
+
+#: classes/class-fl-builder-service-sendinblue.php:103
+msgid "Access Key"
+msgstr "アクセスキー"
+
+#: classes/class-fl-builder-service-sendinblue.php:104
+msgid ""
+"Your Access Key can be found in your SendinBlue account under API & Integration > "
+"Manager Your Keys > Version 2.0 > Access Key."
+msgstr ""
+"アクセスキーは SendinBlue アカウントの「API & Integration」>「Manager Your Keys」"
+">「Version 2.0」>「Access Key」以下で確認します。"
+
+#: classes/class-fl-builder-service-sendinblue.php:198
+msgid ""
+"There was an error subscribing to SendinBlue. The account is no longer connected."
+msgstr ""
+"SendinBlue の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-sendinblue.php:220
+msgid "There was an error subscribing to SendinBlue. Please try again."
+msgstr "SendinBlue の購読にエラーが発生しました。再度お試しください。"
+
+#: classes/class-fl-builder-service-sendinblue.php:223
+#, php-format
+msgid "Error: Could not subscribe to SendinBlue. %s"
+msgstr "エラー: SendinBlue が購読できませんでした。%s"
+
+#: classes/class-fl-builder-service-sendy.php:68
+msgid "Error: You must provide your Sendy installation URL."
+msgstr "エラー: Sendy インストール URL を設定してください。"
+
+#: classes/class-fl-builder-service-sendy.php:76
+msgid "Error: You must provide a list ID."
+msgstr "エラー: リスト ID を設定してください。"
+
+#: classes/class-fl-builder-service-sendy.php:94
+#, php-format
+msgid "Error: Could not connect to Sendy. %s"
+msgstr "エラー: Sendy に接続できませんでした。%s"
+
+#: classes/class-fl-builder-service-sendy.php:115
+msgid "Installation URL"
+msgstr "インストール URL"
+
+#: classes/class-fl-builder-service-sendy.php:116
+msgid ""
+"The URL where your Sendy application is installed (e.g. http://mywebsite.com/"
+"sendy)."
+msgstr ""
+"Sendy アプリケーションをインストールした URL (例: http://mywebsite.com/sendy)。"
+
+#: classes/class-fl-builder-service-sendy.php:127
+msgid "Found in your Sendy application under Settings."
+msgstr "設定に Sendy アプリケーションが見つかりました。"
+
+#: classes/class-fl-builder-service-sendy.php:137
+msgid "List ID"
+msgstr "リスト ID"
+
+#: classes/class-fl-builder-service-sendy.php:138
+msgid ""
+"The ID of the list you would like users to subscribe to. The ID of a list can be "
+"found under \"View all lists\" in the section named ID."
+msgstr ""
+"ユーザーが購読可能にするリストの ID。リストの ID は、ID という名前のセクションで、"
+"「すべてのリストを見る」で確認できます。"
+
+#: classes/class-fl-builder-service-sendy.php:186
+msgid "There was an error subscribing to Sendy. The account is no longer connected."
+msgstr "Sendy の購読にエラーが発生しました。現在アカウントが接続されていません。"
+
+#: classes/class-fl-builder-service-sendy.php:200
+#, php-format
+msgid "There was an error subscribing to Sendy. %s"
+msgstr "エラー: Sendy の購読にエラーが発生しました。%s"
+
+#: classes/class-fl-builder-services.php:183
+msgctxt "Third party service such as MailChimp."
+msgid "Error: Missing service type."
+msgstr "エラー: サービスの種類がありません。"
+
+#: classes/class-fl-builder-services.php:186
+msgctxt "Connection data such as an API key."
+msgid "Error: Missing service data."
+msgstr "エラー: サービスのデータがありません。"
+
+#: classes/class-fl-builder-services.php:189
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: Missing account name."
+msgstr "エラー: アカウント名がありません。"
+
+#: classes/class-fl-builder-services.php:198
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: An account with that name already exists."
+msgstr "エラー: その名前のアカウントがすでに存在しています。"
+
+#: classes/class-fl-builder-services.php:274
+msgid "Account Name"
+msgstr "アカウント名"
+
+#: classes/class-fl-builder-services.php:275
+msgid ""
+"Used to identify this connection within the accounts list and can be anything you "
+"like."
+msgstr "アカウントリストの中からこの接続を識別するために使用し、任意で指定します。"
+
+#: classes/class-fl-builder-services.php:288
+msgid "Connect"
+msgstr "接続"
+
+#: classes/class-fl-builder-services.php:316
+msgid "Add Account..."
+msgstr "アカウントを追加"
+
+#: classes/class-fl-builder-services.php:323
+msgid "Account"
+msgstr "アカウント"
+
+#: classes/class-fl-builder-timezones.php:71
+msgid "Select a city"
+msgstr "都市を選択"
+
+#: classes/class-fl-builder-timezones.php:116
+#: classes/class-fl-builder-timezones.php:120
+msgid "UTC"
+msgstr "UTC 協定世界時"
+
+#: classes/class-fl-builder.php:659
+#, php-format
+msgid "Template: %s"
+msgstr "テンプレート: %s"
+
+#: classes/class-fl-builder.php:694
+msgid "Upgrade!"
+msgstr "アップグレード"
+
+#: classes/class-fl-builder.php:698
+msgid "Buy Now!"
+msgstr "今すぐ入手"
+
+#: classes/class-fl-builder.php:702 includes/ui-js-config.php:48
+#: includes/ui-js-templates.php:163
+msgid "Done"
+msgstr "終了"
+
+#: classes/class-fl-builder.php:706
+msgid "Tools"
+msgstr "ツール"
+
+#: classes/class-fl-builder.php:714 includes/ui-js-config.php:111
+msgid "Add Content"
+msgstr "コンテンツを追加"
+
+#: classes/class-fl-builder.php:1110
+#, php-format
+msgctxt "Field name to add."
+msgid "Add %s"
+msgstr "%s を追加"
+
+#: classes/class-fl-builder.php:1218 classes/class-fl-builder.php:1220
+msgctxt "Custom post type label."
+msgid "Templates"
+msgstr "テンプレート"
+
+#: classes/class-fl-builder.php:1219 classes/class-fl-builder.php:1221
+msgctxt "Custom post type label."
+msgid "Template"
+msgstr "テンプレート"
+
+#: classes/class-fl-builder.php:1222
+msgctxt "Custom post type label."
+msgid "Add New"
+msgstr "新規追加"
+
+#: classes/class-fl-builder.php:1223
+msgctxt "Custom post type label."
+msgid "Add New Template"
+msgstr "テンプレートを新規追加"
+
+#: classes/class-fl-builder.php:1224
+msgctxt "Custom post type label."
+msgid "New Template"
+msgstr "新規テンプレート"
+
+#: classes/class-fl-builder.php:1225
+msgctxt "Custom post type label."
+msgid "Edit Template"
+msgstr "テンプレートを編集"
+
+#: classes/class-fl-builder.php:1226
+msgctxt "Custom post type label."
+msgid "View Template"
+msgstr "テンプレートを表示"
+
+#: classes/class-fl-builder.php:1227
+msgctxt "Custom post type label."
+msgid "All Templates"
+msgstr "すべてのテンプレート"
+
+#: classes/class-fl-builder.php:1228
+msgctxt "Custom post type label."
+msgid "Search Templates"
+msgstr "テンプレートを検索"
+
+#: classes/class-fl-builder.php:1229
+msgctxt "Custom post type label."
+msgid "Parent Templates:"
+msgstr "親テンプレート:"
+
+#: classes/class-fl-builder.php:1230
+msgctxt "Custom post type label."
+msgid "No templates found."
+msgstr "テンプレートが見つかりません。"
+
+#: classes/class-fl-builder.php:1231
+msgctxt "Custom post type label."
+msgid "No templates found in Trash."
+msgstr "ゴミ箱にテンプレートが見つかりません。"
+
+#: classes/class-fl-builder.php:1245
+msgctxt "Custom taxonomy label."
+msgid "Template Categories"
+msgstr "テンプレートカテゴリー"
+
+#: classes/class-fl-builder.php:1246
+msgctxt "Custom taxonomy label."
+msgid "Template Category"
+msgstr "テンプレートカテゴリー"
+
+#: classes/class-fl-builder.php:1247
+msgctxt "Custom taxonomy label."
+msgid "Search Template Categories"
+msgstr "テンプレートカテゴリーを検索"
+
+#: classes/class-fl-builder.php:1248
+msgctxt "Custom taxonomy label."
+msgid "All Template Categories"
+msgstr "すべてのテンプレートカテゴリー"
+
+#: classes/class-fl-builder.php:1249
+msgctxt "Custom taxonomy label."
+msgid "Parent Template Category"
+msgstr "親テンプレートカテゴリー"
+
+#: classes/class-fl-builder.php:1250
+msgctxt "Custom taxonomy label."
+msgid "Parent Template Category:"
+msgstr "親テンプレートカテゴリー:"
+
+#: classes/class-fl-builder.php:1251
+msgctxt "Custom taxonomy label."
+msgid "Edit Template Category"
+msgstr "テンプレートカテゴリーを編集"
+
+#: classes/class-fl-builder.php:1252
+msgctxt "Custom taxonomy label."
+msgid "Update Template Category"
+msgstr "テンプレートカテゴリーを更新"
+
+#: classes/class-fl-builder.php:1253
+msgctxt "Custom taxonomy label."
+msgid "Add New Template Category"
+msgstr "テンプレートカテゴリーを新規追加"
+
+#: classes/class-fl-builder.php:1254
+msgctxt "Custom taxonomy label."
+msgid "New Template Category Name"
+msgstr "新しいテンプレートカテゴリー名"
+
+#: classes/class-fl-builder.php:1255
+msgctxt "Custom taxonomy label."
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: classes/class-fl-builder.php:1264
+msgctxt "Custom taxonomy label."
+msgid "Type"
+msgstr "種別"
+
+#: classes/class-fl-builder.php:1544 classes/class-fl-builder.php:1669
+#: classes/class-fl-builder.php:1826 includes/ui-js-templates.php:173
+msgctxt "Indicator for global node templates."
+msgid "Global"
+msgstr "全体"
+
+#: classes/class-fl-builder.php:1825
+#, php-format
+msgctxt "%s stands for module name."
+msgid "%s Settings"
+msgstr "%s設定"
+
+#: includes/admin-posts.php:3 modules/rich-text/rich-text.php:14
+msgid "Text Editor"
+msgstr "テキストエディタ"
+
+#: includes/admin-posts.php:7
+#, php-format
+msgctxt ""
+"The first %s stands for custom branded \"Page Builder\" name. The second %s stands "
+"for the post type name."
+msgid "%s is currently active for this %s."
+msgstr "%sは現在%sで有効です。"
+
+#: includes/admin-posts.php:8
+#, php-format
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "Launch %s"
+msgstr "%s を起動"
+
+#: includes/admin-posts.php:15
+#, php-format
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid ""
+"Switching to Text Editor mode will disable your %s layout until it is enabled "
+"again. Any edits made while in Text Editor mode will not be made on your %s "
+"layout. Do you want to continue?"
+msgstr ""
+"テキストエディタモードに切り替えると、再び有効にするまで %s レイアウトが無効になり"
+"ます。テキストエディタモードで行われる編集は、%s レイアウトで反映されません。続行し"
+"ますか。"
+
+#: includes/admin-settings-cache.php:9
+msgid ""
+"A CSS and JavaScript file is dynamically generated and cached each time you create "
+"a new layout. Sometimes the cache needs to be refreshed when you migrate your site "
+"to another server or update to the latest version. If you are running into any "
+"issues, please try clearing the cache by clicking the button below."
+msgstr ""
+"CSS と JavaScript ファイルを動的に生成し、新しいレイアウトを作成するたびにキャッ"
+"シュします。サイトを他のサーバーに移行したり、最新のバージョンに更新する時にキャッ"
+"シュの更新が必要な場合があります。問題があった場合は、以下のボタンをクリックして"
+"キャッシュをクリアしてみてください。"
+
+#: includes/admin-settings-cache.php:12 includes/admin-settings-cache.php:14
+#: includes/admin-settings-uninstall.php:7 includes/admin-settings-uninstall.php:10
+#: includes/updater/includes/form.php:39
+msgid "NOTE:"
+msgstr "注:"
+
+#: includes/admin-settings-cache.php:12 includes/admin-settings-uninstall.php:10
+#: includes/updater/includes/form.php:39
+msgid "This applies to all sites on the network."
+msgstr "これは、ネットワーク上のすべてのサイトに適用されます。"
+
+#: includes/admin-settings-cache.php:14
+msgid ""
+"This only applies to this site. Please visit the Network Admin Settings to clear "
+"the cache for all sites on the network."
+msgstr ""
+"このサイトのみに適用されます。ネットワーク上のすべてのサイトのキャッシュをクリアす"
+"るには、ネットワーク管理者設定を参照してください。"
+
+#: includes/admin-settings-cache.php:19
+msgid "Clear Cache"
+msgstr "キャッシュをクリア"
+
+#: includes/admin-settings-editing.php:3
+msgid "Editing Settings"
+msgstr "編集設定"
+
+#: includes/admin-settings-editing.php:10 includes/admin-settings-modules.php:10
+#: includes/admin-settings-post-types.php:10
+msgid "Override network settings?"
+msgstr "ネットワーク設定を上書きします。"
+
+#: includes/admin-settings-editing.php:16
+msgid "Editing Capability"
+msgstr "編集機能"
+
+#: includes/admin-settings-editing.php:17
+#, php-format
+msgid ""
+"Set the <a%s>capability</a> required for users to access advanced builder editing "
+"such as adding, deleting or moving modules."
+msgstr ""
+"ユーザーがモジュールの追加や削除、移動などの高度なビルダー編集を行うには<a%s>権限</"
+"a>の設定が必要です。"
+
+#: includes/admin-settings-editing.php:21
+msgid "Global Templates Editing Capability"
+msgstr "全体のテンプレート編集権限"
+
+#: includes/admin-settings-editing.php:22
+#, php-format
+msgid "Set the <a%s>capability</a> required for users to global templates."
+msgstr "ユーザーの<a%s>権限</a>に全体テンプレートを設定する必要があります。"
+
+#: includes/admin-settings-editing.php:28
+msgid "Save Editing Settings"
+msgstr "編集設定を保存"
+
+#: includes/admin-settings-js-config.php:4
+msgid "Select File"
+msgstr "ファイルを選択"
+
+#: includes/admin-settings-js-config.php:5
+msgid ""
+"Please type \"uninstall\" in the box below to confirm that you really want to "
+"uninstall the page builder and all of its data."
+msgstr ""
+"以下の入力欄に「uninstal」と入力し、本当にページビルダーとそれに基づく全てのデータ"
+"をアンインストールしていいか確認してください。"
+
+#: includes/admin-settings-modules.php:3
+msgid "Enabled Modules"
+msgstr "モジュールを有効化"
+
+#: includes/admin-settings-modules.php:16
+msgid "Check or uncheck modules below to enable or disable them."
+msgstr "モジュールのチェックボックス変更して、有効化または無効化します。"
+
+#: includes/admin-settings-modules.php:26
+msgctxt "Plugin setup page: Modules."
+msgid "All"
+msgstr "すべて"
+
+#: includes/admin-settings-modules.php:64
+msgid "Save Module Settings"
+msgstr "モジュール設定を保存"
+
+#: includes/admin-settings-post-types.php:18
+msgid ""
+"Enter a comma separated list of the post types you would like the builder to work "
+"with."
+msgstr "ビルダーを利用したい投稿タイプをコンマ区切りのリストで入力します。"
+
+#: includes/admin-settings-post-types.php:19
+#: includes/admin-settings-post-types.php:39
+msgid "NOTE: Not all custom post types may be supported."
+msgstr "注: すべてのカスタム投稿タイプがサポートされない可能性があります。"
+
+#: includes/admin-settings-post-types.php:34
+msgid "Example: page, post, product"
+msgstr "例: 固定ページ、投稿、商品"
+
+#: includes/admin-settings-post-types.php:38
+msgid "Select the post types you would like the builder to work with."
+msgstr "ビルダーを利用したい投稿タイプを選択します。"
+
+#: includes/admin-settings-post-types.php:71
+msgid "Save Post Types"
+msgstr "投稿タイプを保存"
+
+#: includes/admin-settings-uninstall.php:5
+msgid ""
+"Clicking the button below will uninstall the page builder plugin and delete all of "
+"the data associated with it. You can uninstall or deactivate the page builder from "
+"the plugins page instead if you do not wish to delete the data."
+msgstr ""
+"下のボタンをクリックして、ページビルダープラグインをアンインストールし、それに関連"
+"付けられたデータをすべて削除します。データを削除したくない場合は、プラグインページ"
+"からページビルダーをアンインストールまたは無効化してください。"
+
+#: includes/admin-settings-uninstall.php:7
+msgid ""
+"The builder does not delete the post meta <code>_fl_builder_data</code>, "
+"<code>_fl_builder_draft</code> and <code>_fl_builder_enabled</code> in case you "
+"want to reinstall it later. If you do, the builder will rebuild all of its data "
+"using those meta values."
+msgstr ""
+"再度インストールする場合のために、カスタムフィールド <code>_fl_builder_data</code> "
+"と <code>_fl_builder_draft</code>、<code>_fl_builder_enabled</code> は削除しませ"
+"ん。再インストールすると、これらのカスタムフィールドを利用して全てのデータを再構築"
+"します。"
+
+#: includes/admin-settings-upgrade.php:5
+msgid ""
+"You are currently running the lite version of the Beaver Builder plugin. Upgrade "
+"today for access to premium features such as advanced modules, templates, support "
+"and more!"
+msgstr ""
+"あなたは現在 Beaver Builder プラグインのライトバージョンをご利用中です。高度なモ"
+"ジュール、テンプレート、サポートなど多くのプレミアム機能にアクセスするために今すぐ"
+"アップグレードしましょう。"
+
+#: includes/admin-settings-upgrade.php:7
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+#: includes/admin-settings-upgrade.php:9
+msgid "Learn More"
+msgstr "詳細を読む"
+
+#: includes/admin-settings-welcome.php:3
+msgid "Welcome to Beaver Builder!"
+msgstr "Beaver Builder へようこそ!"
+
+#: includes/admin-settings-welcome.php:7
+msgid ""
+"Thank you for choosing Beaver Builder and welcome to the colony! Find some helpful "
+"information below. Also, to the left are the Page Builder settings options."
+msgstr ""
+"Beaver Builder をお選びいただきありがとうございます。以下の有益な情報をご覧くださ"
+"い。Beaver Builder 設定は左にあります。"
+
+#: includes/admin-settings-welcome.php:9
+msgid "Getting Started - Building your first page."
+msgstr "始めましょう - 最初のページを作成"
+
+#: includes/admin-settings-welcome.php:15
+msgid "Pages → Add New"
+msgstr "固定ページ → 新規追加"
+
+#: includes/admin-settings-welcome.php:17
+msgid ""
+"Ready to start building? Add a new page and jump into Beaver Builder by clicking "
+"the Page Builder tab shown on the image."
+msgstr ""
+"作成を始める準備はいいですか。新しい固定ページを作成し、画像に表示されているページ"
+"ビルダータブをクリックして、Beaver Builder を開始します。"
+
+#: includes/admin-settings-welcome.php:19
+msgid "Join the Community"
+msgstr "コミュニティに参加"
+
+#: includes/admin-settings-welcome.php:21
+msgid ""
+"There's a wonderful community of \"Beaver Builders\" out there and we'd love it if "
+"<em>you</em> joined us!"
+msgstr ""
+"「Beaver Builder」の素晴らしいコミュニティがあります。<em>あなた</em>もぜひご参加く"
+"ださい!"
+
+#: includes/admin-settings-welcome.php:24
+msgid ""
+"<a href=\"https://www.facebook.com/groups/beaverbuilders/\" target=\"_blank\">Join "
+"the Beaver Builder's Group on Facebook</a>"
+msgstr ""
+"<a href=\"https://www.facebook.com/groups/beaverbuilders/\" target=\"_blank"
+"\">Beaver Builder の Facebook グループに参加</a>"
+
+#: includes/admin-settings-welcome.php:25
+msgid ""
+"<a href=\"https://beaverbuilders.herokuapp.com/\" target=\"_blank\">Join the "
+"Beaver Builder's Group on Slack</a>"
+msgstr ""
+"<a href=\"https://beaverbuilders.herokuapp.com/\" target=\"_blank\">Beaver Builder "
+"の Slack グループに参加</a>"
+
+#: includes/admin-settings-welcome.php:28
+msgid ""
+"Come by and share a project, ask a question, or just say hi! For news about new "
+"features and updates, like our <a href=\"https://www.facebook.com/wpbeaverbuilder/"
+"\" target=\"_blank\">Facebook Page</a> or follow us <a href=\"https://twitter.com/"
+"beaverbuilder\" target=\"_blank\">on Twitter</a>."
+msgstr ""
+"立ち寄ってプロジェクトをシェアしたり、質問したり、お声掛け下さい。新機能や更新のお"
+"知らせは、 <a href=\"https://www.facebook.com/wpbeaverbuilder/\" target=\"_blank"
+"\">Facebook ページ</a>のいいね、または <a href=\"https://twitter.com/beaverbuilder"
+"\" target=\"_blank\">Twitter</a> でフォローしてください。"
+
+#: includes/admin-settings-welcome.php:44
+msgid "What's New in Beaver Builder 1.7"
+msgstr "Beaver Builder 1.7 の新機能"
+
+#: includes/admin-settings-welcome.php:46
+msgid "Beaver Builder 1.7 is live and it's got some slick new features:"
+msgstr "Beaver Builder 1.7 をご利用中です。なめらかな新機能があります:"
+
+#: includes/admin-settings-welcome.php:49
+msgid ""
+"Partial Refresh is live and will make your builder experience faster and more "
+"fluid."
+msgstr "部分更新が有効です。ビルダーの体験をより速く、流動的にします。"
+
+#: includes/admin-settings-welcome.php:50
+msgid "The Audio Module and Count Down module are available!"
+msgstr "音声モジュールとカウントダウンモジュールが利用可能です。"
+
+#: includes/admin-settings-welcome.php:51
+msgid "You can now insert layouts with a shortcode."
+msgstr "ショートコードを利用してレイアウトを挿入できます。"
+
+#: includes/admin-settings-welcome.php:54
+msgid ""
+"Read more our <a href=\"https://www.wpbeaverbuilder.com/beaver-builder-1-7-now-"
+"with-partial-refresh-per-page-code-settings-and-our-first-shortcode/\" target="
+"\"_blank\">update post</a> or <a href=\"https://www.wpbeaverbuilder.com/change-"
+"logs/\" target=\"_blank\">change logs</a>."
+msgstr ""
+"<a href=\"https://www.wpbeaverbuilder.com/beaver-builder-1-7-now-with-partial-"
+"refresh-per-page-code-settings-and-our-first-shortcode/\" target=\"_blank\">ブログ"
+"投稿</a>または<a href=\"https://www.wpbeaverbuilder.com/change-logs/\" target="
+"\"_blank\">更新ログ</a>で詳しくご紹介しています。"
+
+#: includes/admin-settings-welcome.php:60
+msgid "Need Some Help?"
+msgstr "助けが必要ですか?"
+
+#: includes/admin-settings-welcome.php:62
+msgid "We take pride in offering outstanding support."
+msgstr "私たちは、優れたサポートを提供することに誇りを持っています。"
+
+#: includes/admin-settings-welcome.php:64
+msgid ""
+"The fastest way to find an answer to a question is to see if someone's already "
+"answered it!"
+msgstr "ご質問の答えを見つける最速の方法は、誰かがすでに回答している場合です!"
+
+#: includes/admin-settings-welcome.php:66
+msgid ""
+"For that, check our <a href=\"https://www.wpbeaverbuilder.com/knowledge-base/\" "
+"target=\"_blank\">Knowledge Base</a>, <a href=\"https://www.wpbeaverbuilder.com/"
+"frequently-asked-questions/\" target=\"_blank\">FAQ page</a>, or search our <a "
+"href=\"http://www.wpbeaverbuilder.com/support/\" target=\"_blank\">support forum.</"
+"a>"
+msgstr ""
+"<a href=\"https://www.wpbeaverbuilder.com/knowledge-base/\" target=\"_blank\">ナ"
+"レッジベース</a>、<a href=\"https://www.wpbeaverbuilder.com/frequently-asked-"
+"questions/\" target=\"_blank\">よくある質問ページ</a>をご覧いただくか、<a href="
+"\"http://www.wpbeaverbuilder.com/support/\" target=\"_blank\">サポートフォーラム</"
+"a>を検索してください。"
+
+#: includes/admin-settings-welcome.php:68
+msgid ""
+"If you can't find an answer, feel free to post a question in our <a href=\"http://"
+"www.wpbeaverbuilder.com/support/\" target=\"_blank\">support forum</a>."
+msgstr ""
+"答えが見つからなければ、a href=\"http://www.wpbeaverbuilder.com/support/\" target="
+"\"_blank\">サポートフォーラムに</a>お気軽に質問を投稿してください。"
+
+#: includes/column-settings.php:4 includes/ui-js-templates.php:33
+#: includes/ui-js-templates.php:88
+msgid "Column Settings"
+msgstr "カラム設定"
+
+#: includes/column-settings.php:7 includes/module-settings.php:87
+#: includes/row-settings.php:9 modules/audio/audio.php:148
+msgid "Style"
+msgstr "スタイル"
+
+#: includes/column-settings.php:14
+msgid "Column Width"
+msgstr "カラム幅"
+
+#: includes/column-settings.php:25
+msgid "Equalize Column Heights"
+msgstr "カラムの高さを統一"
+
+#: includes/column-settings.php:26
+msgid ""
+"Setting this to yes will make all of the columns in this group the same height "
+"regardless of how much content is in each of them."
+msgstr ""
+"はいを設定すると、グループ内のすべてのカラムの高さを、各コンテンツの内容にかかわら"
+"ず同じにします。"
+
+#: includes/column-settings.php:29 includes/global-settings.php:18
+#: includes/global-settings.php:110 includes/global-settings.php:124
+#: includes/row-settings.php:328 modules/audio/audio.php:123
+#: modules/audio/audio.php:135 modules/audio/audio.php:160
+#: modules/audio/audio.php:174 modules/audio/audio.php:186
+#: modules/audio/audio.php:195 modules/video/video.php:126
+#: modules/video/video.php:138
+msgid "No"
+msgstr "いいえ"
+
+#: includes/column-settings.php:30 includes/global-settings.php:19
+#: includes/global-settings.php:111 includes/global-settings.php:125
+#: includes/row-settings.php:329 modules/audio/audio.php:124
+#: modules/audio/audio.php:136 modules/audio/audio.php:161
+#: modules/audio/audio.php:175 modules/audio/audio.php:187
+#: modules/audio/audio.php:196 modules/video/video.php:127
+#: modules/video/video.php:139
+msgid "Yes"
+msgstr "はい"
+
+#: includes/column-settings.php:39
+msgid "Text"
+msgstr "テキスト"
+
+#: includes/column-settings.php:43 includes/column-settings.php:106
+#: includes/column-settings.php:261 includes/row-settings.php:367
+#: includes/row-settings.php:448
+msgid "Color"
+msgstr "色"
+
+#: includes/column-settings.php:51 includes/row-settings.php:73
+msgid "Link Color"
+msgstr "リンク色"
+
+#: includes/column-settings.php:59 includes/row-settings.php:81
+msgid "Link Hover Color"
+msgstr "リンクホバー色"
+
+#: includes/column-settings.php:67 includes/row-settings.php:89
+msgid "Heading Color"
+msgstr "見出しの色"
+
+#: includes/column-settings.php:76 includes/row-settings.php:98
+msgid "Background"
+msgstr "背景"
+
+#: includes/column-settings.php:80 includes/column-settings.php:228
+#: includes/row-settings.php:102 includes/row-settings.php:415
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/column-settings.php:83 includes/row-settings.php:105
+msgctxt "Background type."
+msgid "None"
+msgstr "なし"
+
+#: includes/column-settings.php:84 includes/row-settings.php:106
+msgctxt "Background type."
+msgid "Color"
+msgstr "色"
+
+#: includes/column-settings.php:85 includes/row-settings.php:107
+msgctxt "Background type."
+msgid "Photo"
+msgstr "画像"
+
+#: includes/column-settings.php:102 includes/row-settings.php:363
+msgid "Background Color"
+msgstr "背景色"
+
+#: includes/column-settings.php:114 includes/column-settings.php:269
+#: includes/row-settings.php:375 includes/row-settings.php:456
+msgid "Opacity"
+msgstr "不透明度"
+
+#: includes/column-settings.php:126 includes/row-settings.php:142
+msgid "Background Photo"
+msgstr "背景画像"
+
+#: includes/column-settings.php:130 includes/row-settings.php:146
+#: includes/row-settings.php:342 modules/photo/photo.php:25
+#: modules/photo/photo.php:446
+msgid "Photo"
+msgstr "画像"
+
+#: includes/column-settings.php:137 includes/row-settings.php:153
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: includes/column-settings.php:140 includes/row-settings.php:156
+msgctxt "Background repeat."
+msgid "None"
+msgstr "なし"
+
+#: includes/column-settings.php:141 includes/row-settings.php:157
+msgctxt "Background repeat."
+msgid "Tile"
+msgstr "タイル"
+
+#: includes/column-settings.php:142 includes/row-settings.php:158
+msgctxt "Background repeat."
+msgid "Horizontal"
+msgstr "水平方向"
+
+#: includes/column-settings.php:143 includes/row-settings.php:159
+msgctxt "Background repeat."
+msgid "Vertical"
+msgstr "垂直方向"
+
+#: includes/column-settings.php:145 includes/row-settings.php:161
+msgid ""
+"Repeat applies to how the image should display in the background. Choosing none "
+"will display the image as uploaded. Tile will repeat the image as many times as "
+"needed to fill the background horizontally and vertically. You can also specify "
+"the image to only repeat horizontally or vertically."
+msgstr ""
+"「繰り返し」は画像を背景に表示する方法に適用されます。なしを選択すると、アップロー"
+"ドされた通りの画像が表示されます。タイルは水平・垂直に背景が埋まるまで繰り返しま"
+"す。画像を水平または垂直のどちらかのみの繰り返しも指定可能です。"
+
+#: includes/column-settings.php:152 includes/row-settings.php:168
+msgid "Position"
+msgstr "位置"
+
+#: includes/column-settings.php:155 includes/row-settings.php:171
+msgid "Left Top"
+msgstr "左上"
+
+#: includes/column-settings.php:156 includes/row-settings.php:172
+msgid "Left Center"
+msgstr "左中央"
+
+#: includes/column-settings.php:157 includes/row-settings.php:173
+msgid "Left Bottom"
+msgstr "左下"
+
+#: includes/column-settings.php:158 includes/row-settings.php:174
+msgid "Right Top"
+msgstr "右上"
+
+#: includes/column-settings.php:159 includes/row-settings.php:175
+msgid "Right Center"
+msgstr "右中央"
+
+#: includes/column-settings.php:160 includes/row-settings.php:176
+msgid "Right Bottom"
+msgstr "右下"
+
+#: includes/column-settings.php:161 includes/row-settings.php:177
+msgid "Center Top"
+msgstr "中央上"
+
+#: includes/column-settings.php:162 includes/row-settings.php:178
+#: modules/photo/photo.php:472
+msgid "Center"
+msgstr "中央"
+
+#: includes/column-settings.php:163 includes/row-settings.php:179
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: includes/column-settings.php:165 includes/row-settings.php:181
+msgid "Position will tell the image where it should sit in the background."
+msgstr "位置は、画像を背景のどこに配置するか設定します。"
+
+#: includes/column-settings.php:172 includes/row-settings.php:188
+msgid "Attachment"
+msgstr "アタッチメント"
+
+#: includes/column-settings.php:175 includes/row-settings.php:191
+msgid "Scroll"
+msgstr "スクロール"
+
+#: includes/column-settings.php:176 includes/global-settings.php:69
+#: includes/global-settings.php:83 includes/row-settings.php:19
+#: includes/row-settings.php:37 includes/row-settings.php:192
+msgid "Fixed"
+msgstr "固定"
+
+#: includes/column-settings.php:178 includes/row-settings.php:194
+msgid ""
+"Attachment will specify how the image reacts when scrolling a page. When scrolling "
+"is selected, the image will scroll with page scrolling. This is the default "
+"setting. Fixed will allow the image to scroll within the background if fill is "
+"selected in the scale setting."
+msgstr ""
+"アタッチメントは、ページをスクロールしたときの画像の反応を指定します。スクロールが"
+"選択されると、画像はページとともにスクロールします。これがデフォルトの設定です。縮"
+"尺設定で敷き詰めを選択した場合、固定は、画像は背景の中でスクロールします。"
+
+#: includes/column-settings.php:185 includes/row-settings.php:201
+msgid "Scale"
+msgstr "縮尺変更"
+
+#: includes/column-settings.php:188 includes/row-settings.php:204
+msgctxt "Background scale."
+msgid "None"
+msgstr "なし"
+
+#: includes/column-settings.php:189 includes/row-settings.php:205
+msgid "Fit"
+msgstr "フィットさせる"
+
+#: includes/column-settings.php:190 includes/row-settings.php:206
+msgid "Fill"
+msgstr "敷き詰める"
+
+#: includes/column-settings.php:192 includes/row-settings.php:208
+msgid ""
+"Scale applies to how the image should display in the background. You can select "
+"either fill or fit to the background."
+msgstr ""
+"縮尺は、どのように画像を背景に表示するかに反映します。背景に敷き詰めるか、フィット"
+"させるか選択可能です。"
+
+#: includes/column-settings.php:200 includes/row-settings.php:387
+msgid "Background Overlay"
+msgstr "背景オーバーレイ"
+
+#: includes/column-settings.php:204 includes/row-settings.php:391
+msgid "Overlay Color"
+msgstr "オーバーレイの色"
+
+#: includes/column-settings.php:212 includes/row-settings.php:399
+msgid "Overlay Opacity"
+msgstr "オーバーレイ不透明度"
+
+#: includes/column-settings.php:224 includes/row-settings.php:411
+msgid "Border"
+msgstr "ボーダー"
+
+#: includes/column-settings.php:230 includes/row-settings.php:417
+msgid ""
+"The type of border to use. Double borders must have a width of at least 3px to "
+"render properly."
+msgstr ""
+"使用する枠線の種類。二重罫線は、正常にレンダリングするには少なくとも3pxの幅を持つ必"
+"要があります。"
+
+#: includes/column-settings.php:232 includes/row-settings.php:419
+msgctxt "Border type."
+msgid "None"
+msgstr "なし"
+
+#: includes/column-settings.php:233 includes/row-settings.php:420
+msgctxt "Border type."
+msgid "Solid"
+msgstr "直線"
+
+#: includes/column-settings.php:234 includes/row-settings.php:421
+msgctxt "Border type."
+msgid "Dashed"
+msgstr "破線"
+
+#: includes/column-settings.php:235 includes/row-settings.php:422
+msgctxt "Border type."
+msgid "Dotted"
+msgstr "点線"
+
+#: includes/column-settings.php:236 includes/row-settings.php:423
+msgctxt "Border type."
+msgid "Double"
+msgstr "二重線"
+
+#: includes/column-settings.php:280 includes/row-settings.php:467
+msgid "Top Width"
+msgstr "上幅"
+
+#: includes/column-settings.php:292 includes/row-settings.php:479
+msgid "Bottom Width"
+msgstr "下幅"
+
+#: includes/column-settings.php:304 includes/row-settings.php:491
+msgid "Left Width"
+msgstr "左幅"
+
+#: includes/column-settings.php:316 includes/row-settings.php:503
+msgid "Right Width"
+msgstr "右幅"
+
+#: includes/column-settings.php:331 includes/module-settings.php:6
+#: includes/row-settings.php:518
+msgid "Advanced"
+msgstr "詳細"
+
+#: includes/column-settings.php:334 includes/global-settings.php:41
+#: includes/global-settings.php:94 includes/module-settings.php:9
+#: includes/row-settings.php:521
+msgid "Margins"
+msgstr "マージン"
+
+#: includes/column-settings.php:338 includes/column-settings.php:391
+#: includes/module-settings.php:13 includes/row-settings.php:525
+#: includes/row-settings.php:578
+msgid "Top"
+msgstr "上"
+
+#: includes/column-settings.php:350 includes/column-settings.php:403
+#: includes/module-settings.php:25 includes/row-settings.php:537
+#: includes/row-settings.php:590
+msgid "Bottom"
+msgstr "下"
+
+#: includes/column-settings.php:362 includes/column-settings.php:415
+#: includes/module-settings.php:37 includes/row-settings.php:549
+#: includes/row-settings.php:602 modules/photo/photo.php:471
+msgid "Left"
+msgstr "左寄せ"
+
+#: includes/column-settings.php:374 includes/column-settings.php:427
+#: includes/module-settings.php:49 includes/row-settings.php:561
+#: includes/row-settings.php:614 modules/photo/photo.php:473
+msgid "Right"
+msgstr "右"
+
+#: includes/column-settings.php:387 includes/global-settings.php:49
+#: includes/row-settings.php:574
+msgid "Padding"
+msgstr "パディング"
+
+#: includes/column-settings.php:440 includes/global-settings.php:103
+#: includes/module-settings.php:62 includes/row-settings.php:627
+msgid "Responsive Layout"
+msgstr "レスポンシブレイアウト"
+
+#: includes/column-settings.php:444 includes/module-settings.php:66
+#: includes/row-settings.php:631
+msgid "Display"
+msgstr "表示"
+
+#: includes/column-settings.php:446 includes/module-settings.php:68
+#: includes/row-settings.php:633
+msgid "Always"
+msgstr "常に"
+
+#: includes/column-settings.php:447 includes/module-settings.php:69
+#: includes/row-settings.php:634
+msgid "Large Devices Only"
+msgstr "大型デバイスのみ"
+
+#: includes/column-settings.php:448 includes/module-settings.php:70
+#: includes/row-settings.php:635
+msgid "Large &amp; Medium Devices Only"
+msgstr "大・中型デバイスのみ"
+
+#: includes/column-settings.php:449 includes/module-settings.php:71
+#: includes/row-settings.php:636
+msgid "Medium Devices Only"
+msgstr "中型デバイスのみ"
+
+#: includes/column-settings.php:450 includes/module-settings.php:72
+#: includes/row-settings.php:637
+msgid "Medium &amp; Small Devices Only"
+msgstr "中・小型デバイスのみ"
+
+#: includes/column-settings.php:451 includes/module-settings.php:73
+#: includes/row-settings.php:638
+msgid "Small Devices Only"
+msgstr "小型デバイスのみ"
+
+#: includes/column-settings.php:453
+msgid "Choose whether to show or hide this column at different device sizes."
+msgstr ""
+"異なるデバイスサイズで、このカラムを表示または非表示にするかどうかを選択します。"
+
+#: includes/column-settings.php:460
+msgid "Medium Device Width"
+msgstr "中型デバイスの幅"
+
+#: includes/column-settings.php:461
+msgid "The width of this column on medium devices such as tablets."
+msgstr "タブレットなどの中型デバイスでのこのカラムの幅。"
+
+#: includes/column-settings.php:464 includes/column-settings.php:492
+msgid "Custom"
+msgstr "カスタム"
+
+#: includes/column-settings.php:477
+msgid "Custom Medium Device Width"
+msgstr "任意の中型デバイスの幅"
+
+#: includes/column-settings.php:488
+msgid "Small Device Width"
+msgstr "小型デバイスの幅"
+
+#: includes/column-settings.php:489
+msgid "The width of this column on small devices such as phones."
+msgstr "携帯電話などの小型デバイスでのこのカラムの幅。"
+
+#: includes/column-settings.php:505
+msgid "Custom Small Device Width"
+msgstr "任意の小型デバイスの幅"
+
+#: includes/column-settings.php:517 includes/module-settings.php:115
+#: includes/row-settings.php:648
+msgid "CSS Selectors"
+msgstr "CSS セレクタ"
+
+#: includes/column-settings.php:521 includes/loop-settings.php:28
+#: includes/module-settings.php:119 includes/row-settings.php:652
+msgid "ID"
+msgstr "ID"
+
+#: includes/column-settings.php:522
+msgid ""
+"A unique ID that will be applied to this column's HTML. Must start with a letter "
+"and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr ""
+"このカラムの HTML に適用される固有 ID。先頭文字は半角英字で、ダッシュ・アンダースコ"
+"ア・文字・数字のみが含められます。スペースは使えません。"
+
+#: includes/column-settings.php:529
+msgid "CSS Class"
+msgstr "CSS クラス"
+
+#: includes/column-settings.php:530
+msgid ""
+"A class that will be applied to this column's HTML. Must start with a letter and "
+"only contain dashes, underscores, letters or numbers. Separate multiple classes "
+"with spaces."
+msgstr ""
+"このカラムの HTML に適用されるクラス。先頭文字は半角英字で、ダッシュ・アンダースコ"
+"ア・文字・数字のみが含められます。半角スペース区切りで複数のクラスを指定します。"
+
+#: includes/field-form.php:34
+#, php-format
+msgctxt "%s stands for form field label."
+msgid "Edit %s"
+msgstr "%s を編集"
+
+#: includes/field-icon.php:2 includes/icon-selector.php:2
+msgid "Select Icon"
+msgstr "アイコンを選択"
+
+#: includes/field-icon.php:5 includes/field-photo.php:16
+msgid "Replace"
+msgstr "置換"
+
+#: includes/field-icon.php:7 includes/field-photo.php:14
+#: includes/ui-js-config.php:84 includes/ui-js-templates.php:15
+#: includes/ui-js-templates.php:43 includes/ui-js-templates.php:99
+msgid "Remove"
+msgstr "削除"
+
+#: includes/field-link.php:2
+msgctxt "Link placeholder"
+msgid "http://www.example.com"
+msgstr "http://www.example.com"
+
+#: includes/field-link.php:3
+msgid "Select"
+msgstr "選択"
+
+#: includes/field-link.php:5
+msgid "Enter a post title to search."
+msgstr "検索したい投稿のタイトルを入力してください。"
+
+#: includes/field-link.php:6
+msgid "Start typing..."
+msgstr "入力開始…"
+
+#: includes/field-link.php:7 includes/icon-selector.php:28 includes/settings.php:71
+#: includes/ui-js-config.php:30 includes/ui-js-templates.php:135
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes/field-multiple-audios.php:21
+#, php-format
+msgid "1 Audio File Selected"
+msgid_plural "%d Audio Files Selected"
+msgstr[0] "%d 件の音声ファイルを選択しました"
+
+#: includes/field-multiple-audios.php:23 includes/ui-js-config.php:91
+msgid "Select Audio"
+msgstr "音声を選択"
+
+#: includes/field-multiple-audios.php:24
+msgid "Edit Playlist"
+msgstr "プレイリストを編集"
+
+#: includes/field-multiple-audios.php:25
+msgid "Add Audio Files"
+msgstr "音声ファイルを追加"
+
+#: includes/field-multiple-photos.php:20
+#, php-format
+msgid "1 Photo Selected"
+msgid_plural "%d Photos Selected"
+msgstr[0] "%d件の写真を選択しました"
+
+#: includes/field-multiple-photos.php:22
+msgid "Create Gallery"
+msgstr "ギャラリーを作成"
+
+#: includes/field-multiple-photos.php:23
+msgid "Edit Gallery"
+msgstr "ギャラリーを編集"
+
+#: includes/field-multiple-photos.php:24
+msgid "Add Photos"
+msgstr "画像を追加"
+
+#: includes/field-photo.php:3 includes/ui-js-config.php:92
+msgid "Select Photo"
+msgstr "画像を選択"
+
+#: includes/field-photo.php:12
+msgid "Edit"
+msgstr "編集"
+
+#: includes/field-text.php:18
+msgctxt "Add predefined value."
+msgid "- Add predefined -"
+msgstr "- 事前登録を追加 -"
+
+#: includes/field-video.php:3 includes/ui-js-config.php:94
+msgid "Select Video"
+msgstr "動画を選択"
+
+#: includes/field-video.php:17
+msgid "Replace Video"
+msgstr "動画を置換"
+
+#: includes/global-settings.php:4 includes/ui-js-config.php:52
+msgid "Global Settings"
+msgstr "全体設定"
+
+#: includes/global-settings.php:7 modules/audio/audio.php:76
+#: modules/html/html.php:27 modules/photo/photo.php:422
+#: modules/rich-text/rich-text.php:27 modules/sidebar/sidebar.php:28
+#: modules/video/video.php:82 modules/widget/widget.php:68
+msgid "General"
+msgstr "一般"
+
+#: includes/global-settings.php:8
+msgid "<strong>Note</strong>: These settings apply to all posts and pages."
+msgstr "注: これらの設定は、すべての投稿と固定ページに適用されます。"
+
+#: includes/global-settings.php:11
+msgid "Default Page Heading"
+msgstr "デフォルトのページ見出し"
+
+#: includes/global-settings.php:15
+msgctxt "General settings form field label. Intended meaning: \"Show page heading?\""
+msgid "Show"
+msgstr "表示"
+
+#: includes/global-settings.php:26
+msgid ""
+"Choosing no will hide the default theme heading for the \"Page\" post type. You "
+"will also be required to enter some basic CSS for this to work if you choose no."
+msgstr ""
+"いいえを選択すると、投稿タイプ「固定ページ」のデフォルトのテーマの見出しが非表示に"
+"なります。また、いいえの選択時に適用する基本的な CSS の入力が必要です。"
+
+#: includes/global-settings.php:30
+msgid "CSS Selector"
+msgstr "CSS セレクタ"
+
+#: includes/global-settings.php:32
+msgid "Enter a CSS selector for the default page heading to hide it."
+msgstr "非表示にするページの見出しの CSS セレクタを入力します。"
+
+#: includes/global-settings.php:37
+msgid "Rows"
+msgstr "列"
+
+#: includes/global-settings.php:57
+msgid "Max Width"
+msgstr "幅の上限"
+
+#: includes/global-settings.php:62
+msgid ""
+"All rows will default to this width. You can override this and make a row full "
+"width in the settings for each row."
+msgstr ""
+"すべての行は、この幅がデフォルトになります。行ごとに上書きし、全幅に設定可能です。"
+
+#: includes/global-settings.php:66
+msgid "Default Row Width"
+msgstr "行のデフォルト幅"
+
+#: includes/global-settings.php:70 includes/global-settings.php:84
+#: includes/row-settings.php:20 includes/row-settings.php:38
+msgid "Full Width"
+msgstr "全幅"
+
+#: includes/global-settings.php:80
+msgid "Default Row Content Width"
+msgstr "行のデフォルトのコンテンツ幅"
+
+#: includes/global-settings.php:107
+msgctxt ""
+"General settings form field label. Intended meaning: \"Responsive layout enabled?\""
+msgid "Enabled"
+msgstr "有効化済み"
+
+#: includes/global-settings.php:121
+msgctxt ""
+"General settings form field label. Intended meaning: \"Enable auto spacing for "
+"responsive layouts?\""
+msgid "Enable Auto Spacing"
+msgstr "スペース自動調整を有効化"
+
+#: includes/global-settings.php:127
+msgid ""
+"When auto spacing is enabled, the builder will automatically adjust the margins "
+"and padding in your layout once the small device breakpoint is reached. Most users "
+"will want to leave this enabled."
+msgstr ""
+"スペース自動調整を有効化すると、小型デバイスのブレイクポイント到達時、自動的にレイ"
+"アウトにマージンとパディングを調整します。ほとんどの場合、有効がおすすめです。"
+
+#: includes/global-settings.php:131
+msgid "Medium Device Breakpoint"
+msgstr "中型デバイスのブレークポイント"
+
+#: includes/global-settings.php:136
+msgid ""
+"The browser width at which the layout will adjust for medium devices such as "
+"tablets."
+msgstr "タブレットなどの中型デバイス向けにレイアウトを調整するブラウザの幅。"
+
+#: includes/global-settings.php:140
+msgid "Small Device Breakpoint"
+msgstr "小型デバイスのブレークポイント"
+
+#: includes/global-settings.php:145
+msgid ""
+"The browser width at which the layout will adjust for small devices such as phones."
+msgstr "スマートフォンなどの小型デバイス向けにレイアウトを調整するブラウザの幅。"
+
+#: includes/global-settings.php:152 includes/layout-settings.php:7
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/global-settings.php:171 includes/layout-settings.php:26
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: includes/icon-selector.php:5
+msgctxt "Select option for showing all icon libraries."
+msgid "All Libraries"
+msgstr "すべてのライブラリ"
+
+#: includes/layout-settings.php:4 includes/ui-js-config.php:53
+msgid "Layout Settings"
+msgstr "レイアウト設定"
+
+#: includes/loop-settings.php:20
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: includes/loop-settings.php:26
+msgid "Order By"
+msgstr "並び順"
+
+#: includes/loop-settings.php:29
+msgid "Date"
+msgstr "日付"
+
+#: includes/loop-settings.php:30
+msgid "Date Last Modified"
+msgstr "最終更新日"
+
+#: includes/loop-settings.php:31
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/loop-settings.php:32
+msgid "Author"
+msgstr "登録者"
+
+#: includes/loop-settings.php:33
+msgid "Comment Count"
+msgstr "コメント数"
+
+#: includes/loop-settings.php:34
+msgid "Menu Order"
+msgstr "メニューの並び順"
+
+#: includes/loop-settings.php:35
+msgid "Random"
+msgstr "ランダム"
+
+#: includes/loop-settings.php:42
+msgid "Order"
+msgstr "注文"
+
+#: includes/loop-settings.php:44
+msgid "Descending"
+msgstr "降順"
+
+#: includes/loop-settings.php:45
+msgid "Ascending"
+msgstr "昇順"
+
+#: includes/loop-settings.php:52
+msgctxt "How many posts to skip."
+msgid "Offset"
+msgstr "オフセット"
+
+#: includes/loop-settings.php:55
+msgid "Skip this many posts that match the specified criteria."
+msgstr "指定した条件に一致する多くの記事をスキップします。"
+
+#: includes/loop-settings.php:62
+msgid "Filter"
+msgstr "フィルター"
+
+#: includes/loop-settings.php:73
+#, php-format
+msgid "Enter a comma separated list of %s. Only these %s will be shown."
+msgstr "%sのコンマ区切りのリストを入力します。これらの%sのみが表示されます。"
+
+#: includes/loop-settings.php:86
+#, php-format
+msgid "Enter a comma separated list of %s. Only posts with these %s will be shown."
+msgstr ""
+"%sのコンマ区切りのリストを入力します。これらの%sを含む投稿のみが表示されます。"
+
+#: includes/loop-settings.php:100
+msgid "Authors"
+msgstr "作成者"
+
+#: includes/loop-settings.php:101
+msgid ""
+"Enter a comma separated list of authors usernames. Only posts with these authors "
+"will be shown."
+msgstr ""
+"作者のユーザー名のコンマ区切りのリストを入力します。これらの作者を含む投稿のみが表"
+"示されます。"
+
+#: includes/module-settings.php:75
+msgid "Choose whether to show or hide this module at different device sizes."
+msgstr ""
+"異なるデバイスサイズで、このモジュールを表示または非表示にするかどうかを選択しま"
+"す。"
+
+#: includes/module-settings.php:83
+msgid "Animation"
+msgstr "アニメーション"
+
+#: includes/module-settings.php:89
+msgctxt "Animation style."
+msgid "None"
+msgstr "なし"
+
+#: includes/module-settings.php:90
+msgctxt "Animation style."
+msgid "Fade In"
+msgstr "フェードイン"
+
+#: includes/module-settings.php:91
+msgctxt "Animation style."
+msgid "Slide Left"
+msgstr "左にスライド"
+
+#: includes/module-settings.php:92
+msgctxt "Animation style."
+msgid "Slide Right"
+msgstr "右にスライド"
+
+#: includes/module-settings.php:93
+msgctxt "Animation style."
+msgid "Slide Up"
+msgstr "上にスライド"
+
+#: includes/module-settings.php:94
+msgctxt "Animation style."
+msgid "Slide Down"
+msgstr "下にスライド"
+
+#: includes/module-settings.php:102
+msgid "Delay"
+msgstr "遅延"
+
+#: includes/module-settings.php:106 includes/row-settings.php:287
+#: includes/row-settings.php:318
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "秒数"
+
+#: includes/module-settings.php:107
+msgid "The amount of time in seconds before this animation starts."
+msgstr "アニメーションを始めるまでの時間を秒単位で指定します。"
+
+#: includes/module-settings.php:120
+msgid ""
+"A unique ID that will be applied to this module's HTML. Must start with a letter "
+"and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr ""
+"このモジュールの HTML に適用される固有 ID。先頭文字は半角英字で、ダッシュ・アンダー"
+"スコア・文字・数字のみが含められます。スペースは使えません。"
+
+#: includes/module-settings.php:127 includes/row-settings.php:660
+msgid "Class"
+msgstr "クラス"
+
+#: includes/module-settings.php:128
+msgid ""
+"A class that will be applied to this module's HTML. Must start with a letter and "
+"only contain dashes, underscores, letters or numbers. Separate multiple classes "
+"with spaces."
+msgstr ""
+"このモジュールの HTML に適用されるクラス。先頭文字は半角英字で、ダッシュ・アンダー"
+"スコア・文字・数字のみが含められます。半角スペース区切りで複数のクラスを指定しま"
+"す。"
+
+#: includes/row-settings.php:6 includes/ui-js-config.php:87
+#: includes/ui-js-templates.php:12
+msgid "Row Settings"
+msgstr "行の設定"
+
+#: includes/row-settings.php:16
+msgid "Width"
+msgstr "幅"
+
+#: includes/row-settings.php:27
+msgid ""
+"Full width rows span the width of the page from edge to edge. Fixed rows are no "
+"wider than the Row Max Width set in the Global Settings."
+msgstr ""
+"全幅行は、ページの端から端までの幅に及びます。固定行は、全体設定で設定した行の最大"
+"幅より広くなることはありません。"
+
+#: includes/row-settings.php:34
+msgid "Content Width"
+msgstr "コンテンツの幅"
+
+#: includes/row-settings.php:40
+msgid ""
+"Full width content spans the width of the page from edge to edge. Fixed content is "
+"no wider than the Row Max Width set in the Global Settings."
+msgstr ""
+"全幅コンテンツは、ページの端から端までの幅に及びます。固定コンテンツは、全体設定で"
+"設定した行の最大幅より広くなることはありません。"
+
+#: includes/row-settings.php:47
+msgid "Height"
+msgstr "高さ"
+
+#: includes/row-settings.php:51
+msgid "Full Height"
+msgstr "高さいっぱい"
+
+#: includes/row-settings.php:53
+msgid "Full height rows fill the height of the browser window."
+msgstr "高さいっぱいの行はブラウザのウィンドウの高さを満たします。"
+
+#: includes/row-settings.php:61
+msgid "Colors"
+msgstr "カラー"
+
+#: includes/row-settings.php:65
+msgid "Text Color"
+msgstr "テキストの色"
+
+#: includes/row-settings.php:108
+msgctxt "Background type."
+msgid "Video"
+msgstr "動画"
+
+#: includes/row-settings.php:110
+msgctxt "Background type."
+msgid "Slideshow"
+msgstr "スライドショー"
+
+#: includes/row-settings.php:114
+msgctxt "Background type."
+msgid "Parallax"
+msgstr "パララックス"
+
+#: includes/row-settings.php:216
+msgid "Background Video"
+msgstr "背景動画"
+
+#: includes/row-settings.php:220 modules/video/video.php:106
+msgid "Video (MP4)"
+msgstr "動画 (MP4)"
+
+#: includes/row-settings.php:221
+msgid ""
+"A video in the MP4 format to use as the background of this row. Most modern "
+"browsers support this format."
+msgstr ""
+"MP4 形式のビデオを行の背景として使用します。モダンブラウザでほぼサポートされている"
+"形式です。"
+
+#: includes/row-settings.php:228 modules/video/video.php:111
+msgid "Video (WebM)"
+msgstr "動画 (WebM)"
+
+#: includes/row-settings.php:229
+msgid ""
+"A video in the WebM format to use as the background of this row. This format is "
+"required to support browsers such as FireFox and Opera."
+msgstr ""
+"WebM 形式のビデオを行の背景として使用します。FireFox や Opera などのブラウザでサ"
+"ポートされています。"
+
+#: includes/row-settings.php:236
+msgid "Fallback Photo"
+msgstr "フォールバックの写真"
+
+#: includes/row-settings.php:237
+msgid "A photo that will be displayed if the video fails to load."
+msgstr "動画の読み込みに失敗した場合に表示される写真。"
+
+#: includes/row-settings.php:245
+msgid "Background Slideshow"
+msgstr "背景スライドショー"
+
+#: includes/row-settings.php:249
+msgid "Source"
+msgstr "取得方法"
+
+#: includes/row-settings.php:252 modules/audio/audio.php:86
+#: modules/photo/photo.php:432 modules/video/video.php:92
+msgid "Media Library"
+msgstr "メディアライブラリ"
+
+#: includes/row-settings.php:255
+msgid ""
+"Pull images from the WordPress media library or a gallery on your SmugMug site by "
+"inserting the RSS feed URL from SmugMug. The RSS feed URL can be accessed by using "
+"the get a link function in your SmugMug gallery."
+msgstr ""
+"WordPress メディアライブラリか、SmugMug の RSS フィード URL を挿入して SmugMug サイ"
+"トのギャラリーから画像を取得します。RSS フィード URL は SmugMug ギャラリーのリンク"
+"取得機能を利用してアクセス可能です。"
+
+#: includes/row-settings.php:270
+msgid "Photos"
+msgstr "写真"
+
+#: includes/row-settings.php:277
+msgid "Feed URL"
+msgstr "フィード URL"
+
+#: includes/row-settings.php:284 includes/row-settings.php:349
+msgid "Speed"
+msgstr "速度"
+
+#: includes/row-settings.php:294
+msgid "Transition"
+msgstr "遷移"
+
+#: includes/row-settings.php:297
+msgctxt "Slideshow transition type."
+msgid "None"
+msgstr "なし"
+
+#: includes/row-settings.php:298
+msgid "Fade"
+msgstr "フェード"
+
+#: includes/row-settings.php:299
+msgid "Ken Burns"
+msgstr "ケン・バーンズ"
+
+#: includes/row-settings.php:300
+msgid "Slide Horizontal"
+msgstr "水平にスライド"
+
+#: includes/row-settings.php:301
+msgid "Slide Vertical"
+msgstr "垂直にスライド"
+
+#: includes/row-settings.php:302
+msgid "Blinds"
+msgstr "ブラインド"
+
+#: includes/row-settings.php:303
+msgid "Bars"
+msgstr "バー"
+
+#: includes/row-settings.php:304
+msgid "Random Bars"
+msgstr "ランダムバー"
+
+#: includes/row-settings.php:305
+msgid "Boxes"
+msgstr "ボックス"
+
+#: includes/row-settings.php:306
+msgid "Random Boxes"
+msgstr "ランダムボックス"
+
+#: includes/row-settings.php:307
+msgid "Boxes Grow"
+msgstr "ボックスグロー"
+
+#: includes/row-settings.php:315
+msgid "Transition Speed"
+msgstr "遷移する速度"
+
+#: includes/row-settings.php:325
+msgid "Randomize Photos"
+msgstr "写真をランダムにする"
+
+#: includes/row-settings.php:338
+msgid "Background Parallax"
+msgstr "背景のパララックス効果"
+
+#: includes/row-settings.php:352
+msgid "Fast"
+msgstr "早く"
+
+#: includes/row-settings.php:353
+msgctxt "Speed."
+msgid "Medium"
+msgstr "ふつう"
+
+#: includes/row-settings.php:354
+msgid "Slow"
+msgstr "ゆっくり"
+
+#: includes/row-settings.php:640
+msgid "Choose whether to show or hide this row at different device sizes."
+msgstr ""
+"異なるデバイスサイズで、このカラムを表示または非表示にするかどうかを選択します。"
+
+#: includes/row-settings.php:653
+msgid ""
+"A unique ID that will be applied to this row's HTML. Must start with a letter and "
+"only contain dashes, underscores, letters or numbers. No spaces."
+msgstr ""
+"この行の HTML に適用される固有 ID。先頭文字は半角英字で、ダッシュ・アンダースコア・"
+"文字・数字のみが含められます。スペースは使えません。"
+
+#: includes/row-settings.php:661
+msgid ""
+"A class that will be applied to this row's HTML. Must start with a letter and only "
+"contain dashes, underscores, letters or numbers. Separate multiple classes with "
+"spaces."
+msgstr ""
+"この行の HTML に適用されるクラス。先頭文字は半角英字で、ダッシュ・アンダースコア・"
+"文字・数字のみが含められます。半角スペース区切りで複数のクラスを指定します。"
+
+#: includes/service-settings.php:32
+msgid "Service"
+msgstr "サービス"
+
+#: includes/settings.php:67
+msgid "Save"
+msgstr "保存"
+
+#: includes/settings.php:69
+msgid "Save As..."
+msgstr "別名で保存"
+
+#: includes/ui-js-config.php:26
+msgid "What would you like to do?"
+msgstr "どうなさいますか?"
+
+#: includes/ui-js-config.php:27
+#, php-format
+msgctxt "%s is the preset hex color code."
+msgid "%s is already a saved preset."
+msgstr "%s プリセットはすでに保存されています。"
+
+#: includes/ui-js-config.php:28
+msgid "Audio File Selected"
+msgstr "音声ファイルを選択しました"
+
+#: includes/ui-js-config.php:29
+msgid "Audio Files Selected"
+msgstr "音声ファイルを選択しました"
+
+#: includes/ui-js-config.php:31
+msgid "Change Template"
+msgstr "テンプレートの変更"
+
+#: includes/ui-js-config.php:32
+msgid ""
+"Warning! Changing the template will replace your existing layout. Do you really "
+"want to do this?"
+msgstr ""
+"警告: テンプレートを変更すると、既存のレイアウトを置き換えます。本当によろしいです"
+"か?"
+
+#: includes/ui-js-config.php:33
+msgid "Color Presets"
+msgstr "カラープリセット"
+
+#: includes/ui-js-config.php:34
+msgid "Color Picker"
+msgstr "パレットピッカー"
+
+#: includes/ui-js-config.php:35
+msgid "Column"
+msgstr "カラム"
+
+#: includes/ui-js-config.php:36
+msgid "Please select either a background layout or content layout before submitting."
+msgstr ""
+"送信する前に背景レイアウトまたはコンテンツレイアウトのいずれかを選択してください。"
+
+#: includes/ui-js-config.php:37
+msgid "Error! Please enter a date that is in the future."
+msgstr "エラー。有効な未来の日付を入力してください。"
+
+#: includes/ui-js-config.php:38
+msgid "Remove Account"
+msgstr "アカウントの削除"
+
+#: includes/ui-js-config.php:39
+msgid ""
+"Are you sure you want to remove this account? Other modules that are connected to "
+"it will be affected."
+msgstr ""
+"このアカウントを削除してもよろしいですか。接続中の他のモジュールにも反映されます。"
+
+#: includes/ui-js-config.php:40
+msgid "Do you really want to delete this column?"
+msgstr "本当にこのカラムを削除してもよろしいですか。"
+
+#: includes/ui-js-config.php:41
+msgid "Do you really want to delete this item?"
+msgstr "本当にこの項目を削除してもよろしいですか。"
+
+#: includes/ui-js-config.php:42
+msgid "Do you really want to delete this module?"
+msgstr "本当にこのモジュールを削除してもよろしいですか。"
+
+#: includes/ui-js-config.php:43
+msgid "Do you really want to delete this row?"
+msgstr "本当にこの行を削除してもよろしいですか。"
+
+#: includes/ui-js-config.php:44
+msgid "Do you really want to delete this template?"
+msgstr "本当にこのテンプレートを削除してもよろしいですか。"
+
+#: includes/ui-js-config.php:45
+msgid ""
+"WARNING! You are about to delete a global template that may be linked to other "
+"pages. Do you really want to delete this template and unlink it?"
+msgstr ""
+"警告: 全体テンプレートを削除しようとしています。他のページに紐付いているかもしれま"
+"せん。本当に削除して、ひも付けを解除してもよろしいですか。"
+
+#: includes/ui-js-config.php:46
+msgid "Discard Changes"
+msgstr "変更をキャンセル"
+
+#: includes/ui-js-config.php:47
+msgid ""
+"Do you really want to discard these changes? All of your changes that are not "
+"published will be lost."
+msgstr "本当にこれらの変更を破棄しますか。公開されていないすべての変更は失われます。"
+
+#: includes/ui-js-config.php:49
+msgid "Save Draft"
+msgstr "下書きを保存"
+
+#: includes/ui-js-config.php:50 includes/ui-js-templates.php:14
+#: includes/ui-js-templates.php:84
+msgid "Duplicate"
+msgstr "複製"
+
+#: includes/ui-js-config.php:51
+msgctxt "Duplicate page/post action label."
+msgid "Duplicate Layout"
+msgstr "レイアウトを複製"
+
+#: includes/ui-js-config.php:54
+msgid "Drop a row layout or module to get started!"
+msgstr "行のレイアウトまたはモジュールをドロップして開始。"
+
+#: includes/ui-js-config.php:55
+msgid "Error! Please enter a valid day."
+msgstr "エラー: 有効な日を入力してください。"
+
+#: includes/ui-js-config.php:56
+msgid "Error! Please enter a valid month."
+msgstr "エラー: 有効な月を入力してください。"
+
+#: includes/ui-js-config.php:57
+msgid "Error! Please enter a valid year."
+msgstr "エラー: 有効な年を入力してください。"
+
+#: includes/ui-js-config.php:58
+msgid ""
+"Beaver Builder caught the following JavaScript error. If Beaver Builder is not "
+"functioning as expected the cause is most likely this error. Please help us by "
+"disabling all plugins and testing Beaver Builder while reactivating each to "
+"determine if the issue is related to a third party plugin."
+msgstr ""
+"Beaver Builder は、以下の JavaScript エラーを発見しました。Beaver Builder が予期し"
+"ない動作をする場合、原因はおそらくこのエラーでしょう。第三者のプラグインによる原因"
+"を特定するために、すべてのプラグインを無効にしてみたうえで Beaver Builder をテスト"
+"していただき、開発の手助けをお願いします。"
+
+#: includes/ui-js-config.php:59
+msgid "Full Size"
+msgstr "フルサイズ"
+
+#: includes/ui-js-config.php:60
+msgid "Get Help"
+msgstr "ヘルプ"
+
+#: includes/ui-js-config.php:61
+msgid "\"{message}\" on line {line} of {file}."
+msgstr "{file} 中 {line} 行目 「{message}」"
+
+#: includes/ui-js-config.php:62
+msgid "Insert"
+msgstr "挿入"
+
+#: includes/ui-js-config.php:63
+msgid "Large"
+msgstr "大"
+
+#: includes/ui-js-config.php:64
+msgid "Manage Templates"
+msgstr "テンプレート管理"
+
+#: includes/ui-js-config.php:65
+msgid "Medium"
+msgstr "中"
+
+#: includes/ui-js-config.php:66
+msgid "Module"
+msgstr "モジュール"
+
+#: includes/ui-js-config.php:67
+msgid "Module Template Saved!"
+msgstr "モジュールテンプレートを保存しました。"
+
+#: includes/ui-js-config.php:68 includes/ui-js-templates.php:10
+#: includes/ui-js-templates.php:80
+msgid "Move"
+msgstr "移動"
+
+#: includes/ui-js-config.php:69
+msgid "New Column"
+msgstr "新しいカラム"
+
+#: includes/ui-js-config.php:70
+msgid "New Row"
+msgstr "新しい行"
+
+#: includes/ui-js-config.php:71
+msgid "Please enter a color first."
+msgstr "先に色を指定してください。"
+
+#: includes/ui-js-config.php:72
+msgid "Add a color preset first."
+msgstr "先にプリセット色を追加してください。"
+
+#: includes/ui-js-config.php:73
+msgid "No results found."
+msgstr "見つかりませんでした。"
+
+#: includes/ui-js-config.php:74
+msgid "No saved rows found."
+msgstr "保存済みテンプレートが見つかりませんでした。"
+
+#: includes/ui-js-config.php:75
+msgid "No saved modules found."
+msgstr "保存済みモジュールが見つかりませんでした。"
+
+#: includes/ui-js-config.php:76 includes/ui-js-templates.php:143
+msgid "OK"
+msgstr "OK"
+
+#: includes/ui-js-config.php:77 modules/photo/photo.php:508
+msgid "Photo Page"
+msgstr "写真ページ"
+
+#: includes/ui-js-config.php:78
+msgid "Photo Selected"
+msgstr "選択画像"
+
+#: includes/ui-js-config.php:79
+msgid "Photos Selected"
+msgstr "選択画像"
+
+#: includes/ui-js-config.php:80
+msgid "Paste color here..."
+msgstr "ここに色を貼り付け"
+
+#: includes/ui-js-config.php:81
+msgid "Please Wait..."
+msgstr "しばらくお待ちください…"
+
+#: includes/ui-js-config.php:82
+#, php-format
+msgctxt "%s is the preset hex color code."
+msgid "%s added to presets!"
+msgstr "%s がプリセットに追加されました。"
+
+#: includes/ui-js-config.php:83
+msgid "Publish Changes"
+msgstr "変更を公開"
+
+#: includes/ui-js-config.php:85
+msgid "Are you sure?"
+msgstr "よろしいですか?"
+
+#: includes/ui-js-config.php:86 includes/ui-js-templates.php:5
+msgid "Row"
+msgstr "行"
+
+#: includes/ui-js-config.php:88
+msgid "Row Template Saved!"
+msgstr "行テンプレートを保存しました。"
+
+#: includes/ui-js-config.php:89
+msgid "Save Core Template"
+msgstr "コアテンプレートを保存"
+
+#: includes/ui-js-config.php:90
+msgid "Save Template"
+msgstr "テンプレートを保存"
+
+#: includes/ui-js-config.php:93
+msgid "Select Photos"
+msgstr "写真を選択"
+
+#: includes/ui-js-config.php:95
+msgid "Submit for Review"
+msgstr "レビューを送信"
+
+#: includes/ui-js-config.php:96
+msgid "Please select an account before saving."
+msgstr "保存する前に、アカウントを選択してください。"
+
+#: includes/ui-js-config.php:97
+msgid "Please connect an account before saving."
+msgstr "保存する前にアカウントに接続してください。"
+
+#: includes/ui-js-config.php:98
+msgid "Please select a list before saving."
+msgstr "保存する前にリストを選択してください。"
+
+#: includes/ui-js-config.php:99
+msgid "Please enter at least one tag before saving."
+msgstr "保存する前に、少なくとも1つのタグを入力してください。"
+
+#: includes/ui-js-config.php:100
+msgid "Take a Tour"
+msgstr "ツアーを見る"
+
+#: includes/ui-js-config.php:101
+msgid "Append New Layout"
+msgstr "新しいレイアウトを追加"
+
+#: includes/ui-js-config.php:102
+msgid "Replace Existing Layout"
+msgstr "既存のレイアウトを置換"
+
+#: includes/ui-js-config.php:103
+msgid "Template Saved!"
+msgstr "テンプレートを保存しました。"
+
+#: includes/ui-js-config.php:104
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: includes/ui-js-config.php:105
+msgid "Next"
+msgstr "次"
+
+#: includes/ui-js-config.php:106
+msgid "Get Started"
+msgstr "使い始める"
+
+#: includes/ui-js-config.php:107
+msgid "Choose a Template"
+msgstr "テンプレート選択"
+
+#: includes/ui-js-config.php:108
+msgid ""
+"Get started by choosing a layout template to customize, or build a page from "
+"scratch by selecting the blank layout template."
+msgstr ""
+"まずはカスタマイズするテンプレートを選択するか、空のレイアウトテンプレートを選択し"
+"て最初からページを作成するために、レイアウトテンプレートを選択して始めましょう。"
+
+#: includes/ui-js-config.php:109
+msgid "Add Rows"
+msgstr "行を追加"
+
+#: includes/ui-js-config.php:110
+msgid ""
+"Add multi-column rows, adjust spacing, add backgrounds and more by dragging and "
+"dropping row layouts onto the page."
+msgstr ""
+"複数カラムの行、間隔の調整、背景の追加などをドラッグ・アンド・ドロップの行のレイア"
+"ウトでページに追加します。"
+
+#: includes/ui-js-config.php:112
+msgid ""
+"Add new content by dragging and dropping modules or widgets into your row layouts "
+"or to create a new row layout."
+msgstr ""
+"新しいコンテンツをドラッグ・アンド・ドロップのモジュールまたはウィジェットで、行の"
+"レイアウトに追加、または新しく行のレイアウトを作成します。"
+
+#: includes/ui-js-config.php:113
+msgid "Edit Content"
+msgstr "コンテンツを編集"
+
+#: includes/ui-js-config.php:114
+msgid "Move your mouse over rows, columns or modules to edit and interact with them."
+msgstr "マウスを行、カラム、モジュールの上に乗せ、編集と操作を行います。"
+
+#: includes/ui-js-config.php:115
+msgid ""
+"Use the action buttons to perform actions such as moving, editing, duplicating or "
+"deleting rows, columns and modules."
+msgstr ""
+"アクションボタンを使用して、行、カラム、モジュールの移動、編集、複製、削除を行いま"
+"す。"
+
+#: includes/ui-js-config.php:116
+msgid "Add More Content"
+msgstr "さらにコンテンツを追加"
+
+#: includes/ui-js-config.php:117
+msgid ""
+"Use the Add Content button to open the content panel and add new row layouts, "
+"modules or widgets."
+msgstr ""
+"コンテンツの追加ボタンを使用してコンテンツパネルを開き、新しい行のレイアウト、モ"
+"ジュール、ウィジェットを追加します。"
+
+#: includes/ui-js-config.php:118
+msgid "Change Templates"
+msgstr "テンプレートを変更"
+
+#: includes/ui-js-config.php:119
+msgid ""
+"Use the Templates button to pick a new template or append one to your layout. "
+"Appending will insert a new template at the end of your existing page content."
+msgstr ""
+"テンプレートボタンを使用して新しいテンプレートの選択や、レイアウトへの追加を行いま"
+"す。追加を使用して、新しいテンプレートを既存のページコンテンツの末尾に追加します。"
+
+#: includes/ui-js-config.php:120
+msgid "Helpful Tools"
+msgstr "便利なツール"
+
+#: includes/ui-js-config.php:121
+msgid ""
+"The Tools button lets you save a template, duplicate a layout, edit the settings "
+"for a layout or edit the global settings."
+msgstr ""
+"ツールボタンを使用すると、テンプレートの保存、レイアウトの複製、レイアウトの設定を"
+"編集、グローバル設定の編集が可能です。"
+
+#: includes/ui-js-config.php:122
+msgid "Publish Your Changes"
+msgstr "変更を公開する"
+
+#: includes/ui-js-config.php:123
+msgid ""
+"Once you're finished, click the Done button to publish your changes, save a draft "
+"or revert back to the last published state."
+msgstr ""
+"完成したら、終了ボタンをクリックして変更を公開したり、下書きの保存、前回の保存状態"
+"に戻します。"
+
+#: includes/ui-js-config.php:124
+msgid "Let's Get Building!"
+msgstr "それでは、作り始めましょう！"
+
+#: includes/ui-js-config.php:125
+msgid ""
+"Now that you know the basics, you're ready to start building! If at any time you "
+"need help, click the help icon in the upper right corner to access the help menu. "
+"Happy building!"
+msgstr ""
+"基本の紹介は以上です、構築開始の準備が整いました! ヘルプが必要な場合は、右上のヘル"
+"プアイコンをクリックしてヘルプメニューを参照してください。それではお楽しみください!"
+
+#: includes/ui-js-config.php:126
+msgid ""
+"The settings you are currently editing will not be saved if you navigate away from "
+"this page."
+msgstr "ページを移動すると、現在編集している設定は保存されません。"
+
+#: includes/ui-js-config.php:127
+msgid "View the Knowledge Base"
+msgstr "ナレッジベースを表示"
+
+#: includes/ui-js-config.php:128
+msgid "Visit the Forums"
+msgstr "フォーラムへ移動"
+
+#: includes/ui-js-config.php:129
+msgid "Watch the Video"
+msgstr "動画を視聴"
+
+#: includes/ui-js-config.php:130 includes/ui-js-templates.php:150
+msgid ""
+"Welcome! It looks like this might be your first time using the builder. Would you "
+"like to take a tour?"
+msgstr "ようこそ! 初めてビルダーをご利用のようです。ツアーに参加しますか?"
+
+#: includes/ui-js-config.php:131 includes/ui-js-templates.php:152
+msgid "Yes Please!"
+msgstr "はい"
+
+#: includes/ui-js-templates.php:7 includes/ui-js-templates.php:77
+msgid "Locked"
+msgstr "ロック中"
+
+#: includes/ui-js-templates.php:31 includes/ui-js-templates.php:86
+msgid "Edit Column"
+msgstr "カラムを編集"
+
+#: includes/ui-js-templates.php:35 includes/ui-js-templates.php:91
+msgid "Insert Column Before"
+msgstr "カラムの前に挿入"
+
+#: includes/ui-js-templates.php:36 includes/ui-js-templates.php:92
+msgid "Insert Column After"
+msgstr "カラムの後に挿入"
+
+#: includes/ui-js-templates.php:39 includes/ui-js-templates.php:95
+msgid "Reset Column Widths"
+msgstr "カラムの幅をリセット"
+
+#: includes/ui-js-templates.php:82
+msgid "Settings"
+msgstr "設定"
+
+#: includes/ui-js-templates.php:89
+msgid "Delete Column"
+msgstr "カラムを削除"
+
+#: includes/ui-js-templates.php:151
+msgid "No Thanks"
+msgstr "結構です"
+
+#: includes/ui-js-templates.php:159
+msgid "Getting Started Video"
+msgstr "入門ビデオ"
+
+#: includes/ui-panel.php:11
+msgid "Row Layouts"
+msgstr "行のレイアウト"
+
+#: includes/ui-panel.php:15
+msgid "1 Column"
+msgstr "1カラム"
+
+#: includes/ui-panel.php:16
+msgid "2 Columns"
+msgstr "2カラム"
+
+#: includes/ui-panel.php:17
+msgid "3 Columns"
+msgstr "3カラム"
+
+#: includes/ui-panel.php:18
+msgid "4 Columns"
+msgstr "4カラム"
+
+#: includes/ui-panel.php:19
+msgid "5 Columns"
+msgstr "5カラム"
+
+#: includes/ui-panel.php:20
+msgid "6 Columns"
+msgstr "6カラム"
+
+#: includes/ui-panel.php:21
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: includes/ui-panel.php:22
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: includes/ui-panel.php:23
+msgid "Left &amp; Right Sidebar"
+msgstr "左 & 右サイドバー"
+
+#: includes/updater/classes/class-fl-updater.php:341
+msgid "<strong>UPDATE UNAVAILABLE!</strong>"
+msgstr "<strong>更新できません</strong>"
+
+#: includes/updater/classes/class-fl-updater.php:343
+msgid "Please subscribe to enable automatic updates for this plugin."
+msgstr "このプラグインの自動更新を有効にするには、購読してください。"
+
+#: includes/updater/classes/class-fl-updater.php:347
+#: includes/updater/includes/form.php:6
+msgid "Subscribe Now"
+msgstr "今すぐ購読"
+
+#: includes/updater/includes/form.php:5
+msgid ""
+"UPDATES UNAVAILABLE! Please subscribe or enter your license key below to enable "
+"automatic updates."
+msgstr ""
+"アップデートは使用できません。自動更新を有効にするには、以下のライセンスキーを入力"
+"してください。"
+
+#: includes/updater/includes/form.php:10
+msgid ""
+"UPDATES UNAVAILABLE! Your subscription is active but this domain has been "
+"deactivated. Please reactivate this domain in your account to enable automatic "
+"updates."
+msgstr ""
+"アップデートは使用できません。購読が有効ですが、現在のドメインは有効化されていませ"
+"ん。自動アップデートを利用するには、ドメインをアカウントで再度有効化してください。"
+
+#: includes/updater/includes/form.php:11
+msgid "Visit Account"
+msgstr "アカウント参照"
+
+#: includes/updater/includes/form.php:16
+msgid "Updates &amp; Support Subscription"
+msgstr "アップデートとサポートの購読"
+
+#: includes/updater/includes/form.php:19
+msgid "Not Active!"
+msgstr "無効"
+
+#: includes/updater/includes/form.php:21
+msgid "Deactivated!"
+msgstr "無効化しました。"
+
+#: includes/updater/includes/form.php:23
+msgid "Active!"
+msgstr "有効"
+
+#: includes/updater/includes/form.php:29
+msgid "License key saved!"
+msgstr "ライセンスキーを保存しました。"
+
+#: includes/updater/includes/form.php:34
+#, php-format
+msgid "Enter your <a%s>license key</a> to enable remote updates and support."
+msgstr ""
+"<a%s>ライセンスキー</a>を入力してリモートアップデートとサポートを有効にします。"
+
+#: includes/updater/includes/form.php:48
+msgid "Save License Key"
+msgstr "ライセンスキーを保存"
+
+#: includes/updater/includes/form.php:55
+msgid "Enter License Key"
+msgstr "ライセンスキーを入力"
+
+#: modules/audio/audio.php:19 modules/audio/audio.php:100
+msgid "Audio"
+msgstr "音声"
+
+#: modules/audio/audio.php:20
+msgid "Render a WordPress audio shortcode."
+msgstr "WordPress 音声ショートコードをレンダリングします。"
+
+#: modules/audio/audio.php:83
+msgid "Audio Type"
+msgstr "音声の種類"
+
+#: modules/audio/audio.php:87 modules/audio/audio.php:112
+#: modules/photo/photo.php:498
+msgid "Link"
+msgstr "リンク"
+
+#: modules/audio/audio.php:120 modules/video/video.php:123
+msgid "Auto Play"
+msgstr "自動再生"
+
+#: modules/audio/audio.php:132 modules/video/video.php:135
+msgid "Loop"
+msgstr "繰り返し"
+
+#: modules/audio/audio.php:151
+msgid "Light"
+msgstr "ライト"
+
+#: modules/audio/audio.php:152
+msgid "Dark"
+msgstr "ダーク"
+
+#: modules/audio/audio.php:157
+msgid "Show Playlist"
+msgstr "プレイリストを表示"
+
+#: modules/audio/audio.php:171
+msgid "Show Track Numbers"
+msgstr "トラック番号を表示"
+
+#: modules/audio/audio.php:183
+msgid "Show Thumbnail"
+msgstr "サムネールを表示"
+
+#: modules/audio/audio.php:192
+msgid "Show Artist Name"
+msgstr "アーティスト名を表示"
+
+#: modules/html/html.php:14
+msgid "HTML"
+msgstr "HTML"
+
+#: modules/html/html.php:15
+msgid "Display raw HTML code."
+msgstr "HTML コードを表示する。"
+
+#: modules/photo/photo.php:26
+msgid "Upload a photo or display one from the media library."
+msgstr "画像をアップロードするか、メディアライブラリの画像を表示します。"
+
+#: modules/photo/photo.php:429
+msgid "Photo Source"
+msgstr "写真の取得方法"
+
+#: modules/photo/photo.php:433 modules/photo/photo.php:505
+msgid "URL"
+msgstr "URL"
+
+#: modules/photo/photo.php:450
+msgid "Photo URL"
+msgstr "写真 URL"
+
+#: modules/photo/photo.php:451
+msgid "http://www.example.com/my-photo.jpg"
+msgstr "http://www.example.com/my-photo.jpg"
+
+#: modules/photo/photo.php:455
+msgid "Crop"
+msgstr "切り抜き"
+
+#: modules/photo/photo.php:458
+msgctxt "Photo Crop."
+msgid "None"
+msgstr "なし"
+
+#: modules/photo/photo.php:459
+msgid "Landscape"
+msgstr "横向き"
+
+#: modules/photo/photo.php:460
+msgid "Panorama"
+msgstr "パノラマ"
+
+#: modules/photo/photo.php:461
+msgid "Portrait"
+msgstr "縦向き"
+
+#: modules/photo/photo.php:462
+msgid "Square"
+msgstr "スクエア"
+
+#: modules/photo/photo.php:463
+msgid "Circle"
+msgstr "正円"
+
+#: modules/photo/photo.php:468
+msgid "Alignment"
+msgstr "配置"
+
+#: modules/photo/photo.php:479 modules/photo/photo.php:493
+msgid "Caption"
+msgstr "キャプション"
+
+#: modules/photo/photo.php:483
+msgid "Show Caption"
+msgstr "キャプションを表示"
+
+#: modules/photo/photo.php:486
+msgid "Never"
+msgstr "期限なし"
+
+#: modules/photo/photo.php:487
+msgid "On Hover"
+msgstr "マウスオーバー時"
+
+#: modules/photo/photo.php:488
+msgid "Below Photo"
+msgstr "写真の下"
+
+#: modules/photo/photo.php:502
+msgid "Link Type"
+msgstr "リンクの種類"
+
+#: modules/photo/photo.php:504
+msgctxt "Link type."
+msgid "None"
+msgstr "なし"
+
+#: modules/photo/photo.php:506
+msgid "Lightbox"
+msgstr "ライトボックス"
+
+#: modules/photo/photo.php:507
+msgid "Photo File"
+msgstr "写真ファイル"
+
+#: modules/photo/photo.php:518
+msgid ""
+"Link type applies to how the image should be linked on click. You can choose a "
+"specific URL, the individual photo or a separate page with the photo."
+msgstr ""
+"リンクの種類は、画像がクリックでどのようにリンクされるかに適用されます。特定の URL"
+"や個々の画像、他のページを選択します。"
+
+#: modules/photo/photo.php:525
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: modules/photo/photo.php:532
+msgid "Link Target"
+msgstr "リンクターゲット"
+
+#: modules/photo/photo.php:535
+msgid "Same Window"
+msgstr "同じウィンドウ"
+
+#: modules/photo/photo.php:536
+msgid "New Window"
+msgstr "新しいウィンドウ"
+
+#: modules/rich-text/rich-text.php:15
+msgid "A WYSIWYG text editor."
+msgstr "WYSIWYG テキストエディタ。"
+
+#: modules/sidebar/includes/settings-general.php:5 modules/sidebar/sidebar.php:14
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: modules/sidebar/sidebar.php:15
+msgid "Display a WordPress sidebar that has been registered by the current theme."
+msgstr "現在のテーマで登録されている WordPress サイドバーを表示します。"
+
+#: modules/video/video.php:19
+msgid "Video"
+msgstr "動画"
+
+#: modules/video/video.php:20
+msgid "Render a WordPress or embedable video."
+msgstr "WordPress や埋め込みビデオをレンダリングします。"
+
+#: modules/video/video.php:89
+msgid "Video Type"
+msgstr "動画の種類"
+
+#: modules/video/video.php:93
+msgid "Embed"
+msgstr "埋め込み"
+
+#: modules/video/video.php:107
+msgid "A video in the MP4 format. Most modern browsers support this format."
+msgstr "MP4 形式の動画。最新のブラウザーは、この形式をサポートします。"
+
+#: modules/video/video.php:112
+msgid ""
+"A video in the WebM format to use as fallback. This format is required to support "
+"browsers such as FireFox and Opera."
+msgstr ""
+"フォールバックとして利用する WebM 形式の動画。FireFox や Opera などのブラウザでこの"
+"形式をサポートします。"
+
+#: modules/video/video.php:119
+msgctxt "Video preview/fallback image."
+msgid "Poster"
+msgstr "ポスター画像"
+
+#: modules/video/video.php:147
+msgid "Video Embed Code"
+msgstr "動画の埋め込みコード"
+
+#: modules/widget/includes/frontend.php:34
+#: modules/widget/includes/settings-general.php:46
+#, php-format
+msgctxt "%s stands for widget slug."
+msgid "%s no longer exists."
+msgstr "%s が存在しません。"
+
+#: modules/widget/widget.php:14
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: modules/widget/widget.php:15
+msgid "Display a WordPress widget."
+msgstr "WordPress ウィジェットを表示します。"
+
+#~ msgid "Page Builder Demo"
+#~ msgstr "Page Builder デモ"
+
+#~ msgid "Email address saved!"
+#~ msgstr "メールアドレスが保存されました。"
+
+#~ msgid "Save Subscription Settings"
+#~ msgstr "購読設定を保存"
+
+#~ msgctxt "Crop."
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Beaver Builder Plugin (Lite Version)"
+#~ msgstr "Beaver Builder Plugin (Lite Version)"
+
+#~ msgid ""
+#~ "https://www.wpbeaverbuilder.com/?"
+#~ "utm_source=external&utm_medium=builder&utm_campaign=plugins-page"
+#~ msgstr ""
+#~ "https://www.wpbeaverbuilder.com/?"
+#~ "utm_source=external&utm_medium=builder&utm_campaign=plugins-page"
+
+#~ msgid ""
+#~ "A drag and drop frontend WordPress page builder plugin that works with almost "
+#~ "any theme!"
+#~ msgstr ""
+#~ "ほぼどんなテーマでも動作するドラッグ・アンド・ドロップのフロントエンドの "
+#~ "WordPress ページビルダープラグイン。"
+
+#~ msgid "The Beaver Builder Team"
+#~ msgstr "Beaver Builder チーム"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "Category"
+#~ msgstr "カテゴリー"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "Search Categories"
+#~ msgstr "カテゴリーを検索"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "All Categories"
+#~ msgstr "カテゴリー一覧"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "Parent Category"
+#~ msgstr "親カテゴリー"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "Parent Category:"
+#~ msgstr "親カテゴリー:"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "Edit Category"
+#~ msgstr "カテゴリー編集"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "Update Category"
+#~ msgstr "カテゴリー更新"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "Add New Category"
+#~ msgstr "カテゴリーを新規追加"
+
+#~ msgctxt "Custom taxonomy label."
+#~ msgid "New Category Name"
+#~ msgstr "新規カテゴリー名"
+
+#~ msgid "Note: These settings apply to all posts and pages."
+#~ msgstr "注: これらの設定は、すべての投稿と固定ページに適用されます。"
+
+#~ msgid ""
+#~ "Do you really want to delete this module? All content data will be permanently "
+#~ "deleted."
+#~ msgstr ""
+#~ "本当にこのモジュールを削除してもよろしいですか。全てのコンテンツのデータが完全に"
+#~ "削除されます。"
+
+#~ msgid ""
+#~ "Do you really want to delete this row? All content data will be permanently "
+#~ "deleted."
+#~ msgstr ""
+#~ "本当にこの行を削除してもよろしいですか。全てのコンテンツのデータが完全に削除され"
+#~ "ます。"
+
+#~ msgctxt "Duplicate page/post action label."
+#~ msgid "Duplicate"
+#~ msgstr "複製"
+
+#~ msgid "Duplicate This Page"
+#~ msgstr "このページを複製"
+
+#~ msgid "Duplicate This Template"
+#~ msgstr "このテンプレートを複製"
+
+#~ msgid "Edit Global Settings"
+#~ msgstr "全体設定を編集"
+
+#~ msgid ""
+#~ "The Tools button lets you duplicate a page, save a template or edit the global "
+#~ "settings."
+#~ msgstr ""
+#~ "ツールボタンでページの複製、テンプレートの保存、全体設定の編集が可能です。"
+
+#~ msgid ""
+#~ "An HTML5 video to use as the background of this row. Supported types are MP4, "
+#~ "WebM and Ogg."
+#~ msgstr ""
+#~ "この行の背景として使用する HTML5 の動画。サポートしている種類は MP4、WebM およ"
+#~ "び Ogg です。"
