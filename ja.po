@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Development (trunk)\n"
 "POT-Creation-Date: 2016-05-16 16:32+0900\n"
-"PO-Revision-Date: 2016-05-16 22:02+0900\n"
+"PO-Revision-Date: 2016-05-17 13:27+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -1806,7 +1806,7 @@ msgstr "下"
 #: includes/module-settings.php:37 includes/row-settings.php:549
 #: includes/row-settings.php:602 modules/photo/photo.php:471
 msgid "Left"
-msgstr "左寄せ"
+msgstr "左"
 
 #: includes/column-settings.php:374 includes/column-settings.php:427
 #: includes/module-settings.php:49 includes/row-settings.php:561
@@ -2862,7 +2862,7 @@ msgstr "サムネイル"
 
 #: includes/ui-js-config.php:105
 msgid "Next"
-msgstr "次"
+msgstr "次へ"
 
 #: includes/ui-js-config.php:106
 msgid "Get Started"
@@ -2889,16 +2889,16 @@ msgid ""
 "Add multi-column rows, adjust spacing, add backgrounds and more by dragging and "
 "dropping row layouts onto the page."
 msgstr ""
-"複数カラムの行、間隔の調整、背景の追加などをドラッグ・アンド・ドロップの行のレイア"
-"ウトでページに追加します。"
+"複数カラムの行、間隔の調整、背景の追加などを「行のレイアウト」でドラッグ & ドロップ"
+"でページに追加します。"
 
 #: includes/ui-js-config.php:112
 msgid ""
 "Add new content by dragging and dropping modules or widgets into your row layouts "
 "or to create a new row layout."
 msgstr ""
-"新しいコンテンツをドラッグ・アンド・ドロップのモジュールまたはウィジェットで、行の"
-"レイアウトに追加、または新しく行のレイアウトを作成します。"
+"新しいコンテンツをドラッグ & ドロップの「モジュール」または「ウィジェット」で、「行"
+"のレイアウト」に追加するか、新しい「行のレイアウト」を作成します。"
 
 #: includes/ui-js-config.php:113
 msgid "Edit Content"
@@ -2906,15 +2906,15 @@ msgstr "コンテンツを編集"
 
 #: includes/ui-js-config.php:114
 msgid "Move your mouse over rows, columns or modules to edit and interact with them."
-msgstr "マウスを行、カラム、モジュールの上に乗せ、編集と操作を行います。"
+msgstr "マウスを「行」「カラム」「モジュール」の上に乗せ、編集と操作を行います。"
 
 #: includes/ui-js-config.php:115
 msgid ""
 "Use the action buttons to perform actions such as moving, editing, duplicating or "
 "deleting rows, columns and modules."
 msgstr ""
-"アクションボタンを使用して、行、カラム、モジュールの移動、編集、複製、削除を行いま"
-"す。"
+"アクションボタンを使用して「行」「カラム」「モジュール」の移動、編集、複製、削除を"
+"行います。"
 
 #: includes/ui-js-config.php:116
 msgid "Add More Content"
@@ -2925,8 +2925,8 @@ msgid ""
 "Use the Add Content button to open the content panel and add new row layouts, "
 "modules or widgets."
 msgstr ""
-"コンテンツの追加ボタンを使用してコンテンツパネルを開き、新しい行のレイアウト、モ"
-"ジュール、ウィジェットを追加します。"
+"「コンテンツを追加」ボタンでコンテンツパネルを開き、新しい「行のレイアウト」「モ"
+"ジュール」「ウィジェット」を追加します。"
 
 #: includes/ui-js-config.php:118
 msgid "Change Templates"
@@ -2961,8 +2961,8 @@ msgid ""
 "Once you're finished, click the Done button to publish your changes, save a draft "
 "or revert back to the last published state."
 msgstr ""
-"完成したら、終了ボタンをクリックして変更を公開したり、下書きの保存、前回の保存状態"
-"に戻します。"
+"完成したら「終了」ボタンをクリックして変更を公開したり、下書きの保存、前回の保存状"
+"態に戻します。"
 
 #: includes/ui-js-config.php:124
 msgid "Let's Get Building!"
@@ -2974,8 +2974,8 @@ msgid ""
 "need help, click the help icon in the upper right corner to access the help menu. "
 "Happy building!"
 msgstr ""
-"基本の紹介は以上です、構築開始の準備が整いました! ヘルプが必要な場合は、右上のヘル"
-"プアイコンをクリックしてヘルプメニューを参照してください。それではお楽しみください!"
+"基本的な説明は以上です、準備が整いました! ヘルプが必要な場合は、右上のヘルプアイコ"
+"ンでヘルプメニューを参照してください。それでは、お楽しみください!"
 
 #: includes/ui-js-config.php:126
 msgid ""
